@@ -1,1 +1,200 @@
-Ly8gTWlsZXN0b25lIEVzY3JvdyDigJQgdHJ1c3QtbWluaW1pemVkIGZyZWVsYW5jZSBwYXltZW50cyBpbiBGZS4KLy8KLy8gT25lIGVzY3JvdyBwZXIgam9iLiBUaGUgY2xpZW50IGZ1bmRzIHRoZSBjb250cmFjdCBpbiBFVEggYW5kIHJlbGVhc2VzCi8vIHBheW1lbnQgbWlsZXN0b25lIGJ5IG1pbGVzdG9uZTsgd2hhdGV2ZXIgaXMgc3RpbGwgdW5yZWxlYXNlZCB3aGVuIHRoZQovLyBkZWFkbGluZSBwYXNzZXMgY2FuIGJlIGNsYXdlZCBiYWNrIGJ5IHRoZSBjbGllbnQuIE5vIG9yYWNsZSwgbm8gZGlzcHV0ZQovLyBjb21taXR0ZWUsIG5vIHRva2VuOiB0aGUgZGVhZGxpbmUgaXMgdGhlIG9ubHkgYXJiaXRyYXRvci4KLy8KLy8gUnVsZXMgKGVuZm9yY2VkIG9uLWNoYWluKToKLy8gICAqIE9ubHkgdGhlIGNsaWVudCBjYW4gZnVuZCwgcmVsZWFzZSwgb3IgcmVmdW5kLgovLyAgICogRnVuZGluZyBjbG9zZXMgQVQgdGhlIGRlYWRsaW5lICh0aW1lc3RhbXAgPD0gZGVhZGxpbmUpOyBhIHplcm8KLy8gICAgIGRlcG9zaXQgaXMgcmVqZWN0ZWQuCi8vICAgKiBSZWxlYXNlIG9ubHkgd29ya3MgQkVGT1JFIHRoZSBkZWFkbGluZSAodGltZXN0YW1wIDwgZGVhZGxpbmUpIGFuZAovLyAgICAgb25seSB1cCB0byB0aGUgdW5yZWxlYXNlZCBiYWxhbmNlLgovLyAgICogUmVmdW5kIG9ubHkgd29ya3MgQVQgb3IgQUZURVIgdGhlIGRlYWRsaW5lICh0aW1lc3RhbXAgPj0gZGVhZGxpbmUpCi8vICAgICBhbmQgb25seSBmb3IgdGhlIHVucmVsZWFzZWQgcmVtYWluZGVyLgovLyAgICogRXZlcnkgc3RhdGUgY2hhbmdlIGhhcHBlbnMgYmVmb3JlIHRoZSBFVEggdHJhbnNmZXIgKGNoZWNrcy1lZmZlY3RzLQovLyAgICAgaW50ZXJhY3Rpb25zKSwgc28gYSByZWVudHJhbnQgY2FsbCBmaW5kcyBub3RoaW5nIGxlZnQgdG8gdGFrZS4KCm1zZyBFc2Nyb3dNc2cgewogICAgI1tzZWxlY3RvciA9IHNvbCgiZnVuZCgpIildCiAgICBGdW5kIC0+IFdlaSwKICAgICNbc2VsZWN0b3IgPSBzb2woInJlbGVhc2UodWludDI1NikiKV0KICAgIFJlbGVhc2UgeyBhbW91bnQ6IFdlaSB9IC0+IFdlaSwKICAgICNbc2VsZWN0b3IgPSBzb2woInJlZnVuZChhZGRyZXNzKSIpXQogICAgUmVmdW5kIHsgdG86IEFkZHJlc3MgfSAtPiBXZWksCiAgICAjW3NlbGVjdG9yID0gc29sKCJjbGllbnQoKSIpXQogICAgQ2xpZW50IC0+IEFkZHJlc3MsCiAgICAjW3NlbGVjdG9yID0gc29sKCJmcmVlbGFuY2VyKCkiKV0KICAgIEZyZWVsYW5jZXIgLT4gQWRkcmVzcywKICAgICNbc2VsZWN0b3IgPSBzb2woImRlYWRsaW5lKCkiKV0KICAgIERlYWRsaW5lIC0+IFRpbWVzdGFtcCwKICAgICNbc2VsZWN0b3IgPSBzb2woImZ1bmRlZCgpIildCiAgICBGdW5kZWQgLT4gV2VpLAogICAgI1tzZWxlY3RvciA9IHNvbCgicmVsZWFzZWQoKSIpXQogICAgUmVsZWFzZWQgLT4gV2VpLAogICAgI1tzZWxlY3RvciA9IHNvbCgicmVmdW5kZWQoKSIpXQogICAgUmVmdW5kZWQgLT4gV2VpLAogICAgI1tzZWxlY3RvciA9IHNvbCgiYXZhaWxhYmxlKCkiKV0KICAgIEF2YWlsYWJsZSAtPiBXZWksCn0KCiNbZXZlbnRdCnN0cnVjdCBGdW5kZWQgewogICAgI1tpbmRleGVkXQogICAgZnJvbTogQWRkcmVzcywKICAgIGFtb3VudDogV2VpLAogICAgdG90YWxfZnVuZGVkOiBXZWksCn0KCiNbZXZlbnRdCnN0cnVjdCBSZWxlYXNlZCB7CiAgICAjW2luZGV4ZWRdCiAgICB0bzogQWRkcmVzcywKICAgIGFtb3VudDogV2VpLAogICAgdG90YWxfcmVsZWFzZWQ6IFdlaSwKfQoKI1tldmVudF0Kc3RydWN0IFJlZnVuZGVkIHsKICAgICNbaW5kZXhlZF0KICAgIHRvOiBBZGRyZXNzLAogICAgYW1vdW50OiBXZWksCn0KCnB1YiBjb250cmFjdCBNaWxlc3RvbmVFc2Nyb3cgdXNlcyAoY3R4OiBDdHgsIGNhbGw6IG11dCBDYWxsLCBsb2c6IG11dCBMb2cpIHsKICAgIGNsaWVudDogQWRkcmVzcywKICAgIGZyZWVsYW5jZXI6IEFkZHJlc3MsCiAgICBkZWFkbGluZTogVGltZXN0YW1wLAogICAgbXV0IGZ1bmRlZDogV2VpLAogICAgbXV0IHJlbGVhc2VkOiBXZWksCiAgICBtdXQgcmVmdW5kZWQ6IFdlaSwKCiAgICBpbml0KGNsaWVudF9hZGRyOiBBZGRyZXNzLCBmcmVlbGFuY2VyX2FkZHI6IEFkZHJlc3MsIGxvY2s6IER1cmF0aW9uKQogICAgdXNlcyAoY3R4LCBtdXQgY2xpZW50LCBtdXQgZnJlZWxhbmNlciwgbXV0IGRlYWRsaW5lLCBtdXQgZnVuZGVkLCBtdXQgcmVsZWFzZWQsIG11dCByZWZ1bmRlZCkKICAgIHsKICAgICAgICBhc3NlcnQhKAogICAgICAgICAgICBjbGllbnRfYWRkciAhPSBmcmVlbGFuY2VyX2FkZHIsCiAgICAgICAgICAgICJDbGllbnQgYW5kIGZyZWVsYW5jZXIgbXVzdCBkaWZmZXIiLAogICAgICAgICkKICAgICAgICAvLyBOb3RlOiBhIHplcm8gbG9jayBpcyBhbGxvd2VkLiBJdCBtYWtlcyB0aGUgZGVhZGxpbmUgIm5vdyI6CiAgICAgICAgLy8gZnVuZGluZyBpcyBzdGlsbCBwb3NzaWJsZSBhdCB0aGF0IGluc3RhbnQsIHJlbGVhc2UgaXMgY2xvc2VkLAogICAgICAgIC8vIGFuZCByZWZ1bmQgaXMgaW1tZWRpYXRlbHkgb3Blbi4gVGhlIHRlc3Qgc3VpdGUgcmVsaWVzIG9uIHRoaXMKICAgICAgICAvLyB0byBleGVyY2lzZSB0aGUgcG9zdC1kZWFkbGluZSBwYXRoIHdpdGhvdXQgdGltZSB0cmF2ZWwuCiAgICAgICAgY2xpZW50ID0gY2xpZW50X2FkZHIKICAgICAgICBmcmVlbGFuY2VyID0gZnJlZWxhbmNlcl9hZGRyCiAgICAgICAgZGVhZGxpbmUgPSBjdHgudGltZXN0YW1wKCkgKyBsb2NrCiAgICAgICAgZnVuZGVkID0gV2VpOjp6ZXJvKCkKICAgICAgICByZWxlYXNlZCA9IFdlaTo6emVybygpCiAgICAgICAgcmVmdW5kZWQgPSBXZWk6Onplcm8oKQogICAgfQoKICAgIHJlY3YgRXNjcm93TXNnIHsKICAgICAgICAvLyBUaGUgY2xpZW50IHRvcHMgdXAgdGhlIGVzY3Jvdy4gRnVuZGluZyBpcyBvcGVuIHVudGlsIHRoZQogICAgICAgIC8vIGRlYWRsaW5lIGluc3RhbnQgaXRzZWxmOyBhZnRlciB0aGF0IHRoZSBtb25leSBjYW4gb25seSBtb3ZlCiAgICAgICAgLy8gYmFjayB0byB0aGUgY2xpZW50IHZpYSBgcmVmdW5kYC4KICAgICAgICAjW3BheWFibGVdCiAgICAgICAgRnVuZCAtPiBXZWkgdXNlcyAoY3R4LCBjbGllbnQsIGRlYWRsaW5lLCBtdXQgZnVuZGVkLCBtdXQgbG9nKSB7CiAgICAgICAgICAgIGFzc2VydCEoY3R4LmNhbGxlcigpID09IGNsaWVudCwgIk9ubHkgdGhlIGNsaWVudCBjYW4gZnVuZCIpCiAgICAgICAgICAgIGFzc2VydCEoY3R4LnRpbWVzdGFtcCgpIDw9IGRlYWRsaW5lLCAiRnVuZGluZyBpcyBjbG9zZWQiKQogICAgICAgICAgICBsZXQgYW1vdW50ID0gY3R4LnZhbHVlKCkKICAgICAgICAgICAgYXNzZXJ0IShhbW91bnQgPiBXZWk6Onplcm8oKSwgIk5vdGhpbmcgdG8gZnVuZCIpCiAgICAgICAgICAgIGZ1bmRlZCA9IGZ1bmRlZCArIGFtb3VudAogICAgICAgICAgICBsb2cuZW1pdCgKICAgICAgICAgICAgICAgIEZ1bmRlZCB7IGZyb206IGN0eC5jYWxsZXIoKSwgYW1vdW50LCB0b3RhbF9mdW5kZWQ6IGZ1bmRlZCB9LAogICAgICAgICAgICApCiAgICAgICAgICAgIGZ1bmRlZAogICAgICAgIH0KCiAgICAgICAgLy8gVGhlIGNsaWVudCBwYXlzIG91dCBvbmUgbWlsZXN0b25lIChvciBhbnkgcGFydGlhbCBhbW91bnQpIHRvCiAgICAgICAgLy8gdGhlIGZyZWVsYW5jZXIuIE9ubHkgYmVmb3JlIHRoZSBkZWFkbGluZSwgb25seSBmcm9tIHRoZQogICAgICAgIC8vIHVucmVsZWFzZWQgYmFsYW5jZS4KICAgICAgICBSZWxlYXNlIHsgYW1vdW50IH0gLT4gV2VpIHVzZXMgKAogICAgICAgICAgICBjdHgsCiAgICAgICAgICAgIGNsaWVudCwKICAgICAgICAgICAgbXV0IGNhbGwsCiAgICAgICAgICAgIGZyZWVsYW5jZXIsCiAgICAgICAgICAgIGRlYWRsaW5lLAogICAgICAgICAgICBtdXQgcmVsZWFzZWQsCiAgICAgICAgICAgIGZ1bmRlZCwKICAgICAgICAgICAgcmVmdW5kZWQsCiAgICAgICAgICAgIG11dCBsb2csCiAgICAgICAgKSB7CiAgICAgICAgICAgIGFzc2VydCEoY3R4LmNhbGxlcigpID09IGNsaWVudCwgIk9ubHkgdGhlIGNsaWVudCBjYW4gcmVsZWFzZSIpCiAgICAgICAgICAgIGFzc2VydCEoY3R4LnRpbWVzdGFtcCgpIDwgZGVhZGxpbmUsICJEZWFkbGluZSBoYXMgcGFzc2VkIikKICAgICAgICAgICAgYXNzZXJ0IShhbW91bnQgPiBXZWk6Onplcm8oKSwgIk5vdGhpbmcgdG8gcmVsZWFzZSIpCiAgICAgICAgICAgIGFzc2VydCEoCiAgICAgICAgICAgICAgICBhbW91bnQgPD0gZnVuZGVkIC0gcmVsZWFzZWQgLSByZWZ1bmRlZCwKICAgICAgICAgICAgICAgICJBbW91bnQgZXhjZWVkcyBhdmFpbGFibGUgYmFsYW5jZSIsCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIC8vIEVmZmVjdHMgYmVmb3JlIGludGVyYWN0aW9uOiBhIHJlZW50cmFudCBjYWxsIGZpbmRzIHRoZQogICAgICAgICAgICAvLyBiYWxhbmNlIGFscmVhZHkgc3BlbnQuCiAgICAgICAgICAgIHJlbGVhc2VkID0gcmVsZWFzZWQgKyBhbW91bnQKICAgICAgICAgICAgYXNzZXJ0ISgKICAgICAgICAgICAgICAgIGNhbGwuc2VuZF92YWx1ZShhZGRyOiBmcmVlbGFuY2VyLCBnYXM6IDAsIHZhbHVlOiBhbW91bnQpLnN1Y2Nlc3MoKSwKICAgICAgICAgICAgICAgICJUcmFuc2ZlciBmYWlsZWQiLAogICAgICAgICAgICApCiAgICAgICAgICAgIGxvZy5lbWl0KAogICAgICAgICAgICAgICAgUmVsZWFzZWQgeyB0bzogZnJlZWxhbmNlciwgYW1vdW50LCB0b3RhbF9yZWxlYXNlZDogcmVsZWFzZWQgfSwKICAgICAgICAgICAgKQogICAgICAgICAgICBhbW91bnQKICAgICAgICB9CgogICAgICAgIC8vIEFmdGVyIHRoZSBkZWFkbGluZSwgdGhlIGNsaWVudCBjbGF3cyBiYWNrIHdoYXRldmVyIHdhcyBuZXZlcgogICAgICAgIC8vIHJlbGVhc2VkLiBUaGUgZnJlZWxhbmNlcidzIHdpbmRvdyB0byBiZSBwYWlkIGhhcyBjbG9zZWQuIFRoZQogICAgICAgIC8vIGNsaWVudCBuYW1lcyB0aGUgcGF5b3V0IGFkZHJlc3MgKG5vcm1hbGx5IHRoZWlyIG93biB3YWxsZXQpLAogICAgICAgIC8vIG1pcnJvcmluZyB0aGUgc3RhcnRlciBWYXVsdCdzIGB3aXRoZHJhdyhhZGRyZXNzKWAgcGF0dGVybi4KICAgICAgICBSZWZ1bmQgeyB0byB9IC0+IFdlaSB1c2VzICgKICAgICAgICAgICAgY3R4LAogICAgICAgICAgICBtdXQgY2FsbCwKICAgICAgICAgICAgY2xpZW50LAogICAgICAgICAgICBkZWFkbGluZSwKICAgICAgICAgICAgZnVuZGVkLAogICAgICAgICAgICByZWxlYXNlZCwKICAgICAgICAgICAgbXV0IHJlZnVuZGVkLAogICAgICAgICAgICBtdXQgbG9nLAogICAgICAgICkgewogICAgICAgICAgICBhc3NlcnQhKGN0eC5jYWxsZXIoKSA9PSBjbGllbnQsICJPbmx5IHRoZSBjbGllbnQgY2FuIHJlZnVuZCIpCiAgICAgICAgICAgIGFzc2VydCEoY3R4LnRpbWVzdGFtcCgpID49IGRlYWRsaW5lLCAiRGVhZGxpbmUgaGFzIG5vdCBwYXNzZWQiKQogICAgICAgICAgICBsZXQgYW1vdW50ID0gZnVuZGVkIC0gcmVsZWFzZWQgLSByZWZ1bmRlZAogICAgICAgICAgICBhc3NlcnQhKGFtb3VudCA+IFdlaTo6emVybygpLCAiTm90aGluZyB0byByZWZ1bmQiKQoKICAgICAgICAgICAgcmVmdW5kZWQgPSByZWZ1bmRlZCArIGFtb3VudAogICAgICAgICAgICBhc3NlcnQhKAogICAgICAgICAgICAgICAgY2FsbC5zZW5kX3ZhbHVlKGFkZHI6IHRvLCBnYXM6IDAsIHZhbHVlOiBhbW91bnQpLnN1Y2Nlc3MoKSwKICAgICAgICAgICAgICAgICJUcmFuc2ZlciBmYWlsZWQiLAogICAgICAgICAgICApCiAgICAgICAgICAgIGxvZy5lbWl0KFJlZnVuZGVkIHsgdG8sIGFtb3VudCB9KQogICAgICAgICAgICBhbW91bnQKICAgICAgICB9CgogICAgICAgIENsaWVudCAtPiBBZGRyZXNzIHVzZXMgKGNsaWVudCkgewogICAgICAgICAgICBjbGllbnQKICAgICAgICB9CgogICAgICAgIEZyZWVsYW5jZXIgLT4gQWRkcmVzcyB1c2VzIChmcmVlbGFuY2VyKSB7CiAgICAgICAgICAgIGZyZWVsYW5jZXIKICAgICAgICB9CgogICAgICAgIERlYWRsaW5lIC0+IFRpbWVzdGFtcCB1c2VzIChkZWFkbGluZSkgewogICAgICAgICAgICBkZWFkbGluZQogICAgICAgIH0KCiAgICAgICAgRnVuZGVkIC0+IFdlaSB1c2VzIChmdW5kZWQpIHsKICAgICAgICAgICAgZnVuZGVkCiAgICAgICAgfQoKICAgICAgICBSZWxlYXNlZCAtPiBXZWkgdXNlcyAocmVsZWFzZWQpIHsKICAgICAgICAgICAgcmVsZWFzZWQKICAgICAgICB9CgogICAgICAgIFJlZnVuZGVkIC0+IFdlaSB1c2VzIChyZWZ1bmRlZCkgewogICAgICAgICAgICByZWZ1bmRlZAogICAgICAgIH0KCiAgICAgICAgQXZhaWxhYmxlIC0+IFdlaSB1c2VzIChmdW5kZWQsIHJlbGVhc2VkLCByZWZ1bmRlZCkgewogICAgICAgICAgICBmdW5kZWQgLSByZWxlYXNlZCAtIHJlZnVuZGVkCiAgICAgICAgfQogICAgfQp9Cg==
+// Milestone Escrow — trust-minimized freelance payments in Fe.
+//
+// One escrow per job. The client funds the contract in ETH and releases
+// payment milestone by milestone; whatever is still unreleased when the
+// deadline passes can be clawed back by the client. No oracle, no dispute
+// committee, no token: the deadline is the only arbitrator.
+//
+// Rules (enforced on-chain):
+//   * Only the client can fund, release, or refund.
+//   * Funding closes AT the deadline (timestamp <= deadline); a zero
+//     deposit is rejected.
+//   * Release only works BEFORE the deadline (timestamp < deadline) and
+//     only up to the unreleased balance.
+//   * Refund only works AT or AFTER the deadline (timestamp >= deadline)
+//     and only for the unreleased remainder.
+//   * Every state change happens before the ETH transfer (checks-effects-
+//     interactions), so a reentrant call finds nothing left to take.
+
+msg EscrowMsg {
+    #[selector = sol("fund()")]
+    Fund -> Wei,
+    #[selector = sol("release(uint256)")]
+    Release { amount: Wei } -> Wei,
+    #[selector = sol("refund(address)")]
+    Refund { to: Address } -> Wei,
+    #[selector = sol("client()")]
+    Client -> Address,
+    #[selector = sol("freelancer()")]
+    Freelancer -> Address,
+    #[selector = sol("deadline()")]
+    Deadline -> Timestamp,
+    #[selector = sol("funded()")]
+    Funded -> Wei,
+    #[selector = sol("released()")]
+    Released -> Wei,
+    #[selector = sol("refunded()")]
+    Refunded -> Wei,
+    #[selector = sol("available()")]
+    Available -> Wei,
+}
+
+#[event]
+struct Funded {
+    #[indexed]
+    from: Address,
+    amount: Wei,
+    total_funded: Wei,
+}
+
+#[event]
+struct Released {
+    #[indexed]
+    to: Address,
+    amount: Wei,
+    total_released: Wei,
+}
+
+#[event]
+struct Refunded {
+    #[indexed]
+    to: Address,
+    amount: Wei,
+}
+
+pub contract MilestoneEscrow uses (ctx: Ctx, call: mut Call, log: mut Log) {
+    client: Address,
+    freelancer: Address,
+    deadline: Timestamp,
+    mut funded: Wei,
+    mut released: Wei,
+    mut refunded: Wei,
+
+    init(client_addr: Address, freelancer_addr: Address, lock: Duration)
+    uses (ctx, mut client, mut freelancer, mut deadline, mut funded, mut released, mut refunded)
+    {
+        assert!(
+            client_addr != freelancer_addr,
+            "Client and freelancer must differ",
+        )
+        // Note: a zero lock is allowed. It makes the deadline "now":
+        // funding is still possible at that instant, release is closed,
+        // and refund is immediately open. The test suite relies on this
+        // to exercise the post-deadline path without time travel.
+        client = client_addr
+        freelancer = freelancer_addr
+        deadline = ctx.timestamp() + lock
+        funded = Wei::zero()
+        released = Wei::zero()
+        refunded = Wei::zero()
+    }
+
+    recv EscrowMsg {
+        // The client tops up the escrow. Funding is open until the
+        // deadline instant itself; after that the money can only move
+        // back to the client via `refund`.
+        #[payable]
+        Fund -> Wei uses (ctx, client, deadline, mut funded, mut log) {
+            assert!(ctx.caller() == client, "Only the client can fund")
+            assert!(ctx.timestamp() <= deadline, "Funding is closed")
+            let amount = ctx.value()
+            assert!(amount > Wei::zero(), "Nothing to fund")
+            funded = funded + amount
+            log.emit(
+                Funded { from: ctx.caller(), amount, total_funded: funded },
+            )
+            funded
+        }
+
+        // The client pays out one milestone (or any partial amount) to
+        // the freelancer. Only before the deadline, only from the
+        // unreleased balance.
+        Release { amount } -> Wei uses (
+            ctx,
+            client,
+            mut call,
+            freelancer,
+            deadline,
+            mut released,
+            funded,
+            refunded,
+            mut log,
+        ) {
+            assert!(ctx.caller() == client, "Only the client can release")
+            assert!(ctx.timestamp() < deadline, "Deadline has passed")
+            assert!(amount > Wei::zero(), "Nothing to release")
+            assert!(
+                amount <= funded - released - refunded,
+                "Amount exceeds available balance",
+            )
+
+            // Effects before interaction: a reentrant call finds the
+            // balance already spent.
+            released = released + amount
+            assert!(
+                call.send_value(addr: freelancer, gas: 0, value: amount).success(),
+                "Transfer failed",
+            )
+            log.emit(
+                Released { to: freelancer, amount, total_released: released },
+            )
+            amount
+        }
+
+        // After the deadline, the client claws back whatever was never
+        // released. The freelancer's window to be paid has closed. The
+        // client names the payout address (normally their own wallet),
+        // mirroring the starter Vault's `withdraw(address)` pattern.
+        Refund { to } -> Wei uses (
+            ctx,
+            mut call,
+            client,
+            deadline,
+            funded,
+            released,
+            mut refunded,
+            mut log,
+        ) {
+            assert!(ctx.caller() == client, "Only the client can refund")
+            assert!(ctx.timestamp() >= deadline, "Deadline has not passed")
+            let amount = funded - released - refunded
+            assert!(amount > Wei::zero(), "Nothing to refund")
+
+            refunded = refunded + amount
+            assert!(
+                call.send_value(addr: to, gas: 0, value: amount).success(),
+                "Transfer failed",
+            )
+            log.emit(Refunded { to, amount })
+            amount
+        }
+
+        Client -> Address uses (client) {
+            client
+        }
+
+        Freelancer -> Address uses (freelancer) {
+            freelancer
+        }
+
+        Deadline -> Timestamp uses (deadline) {
+            deadline
+        }
+
+        Funded -> Wei uses (funded) {
+            funded
+        }
+
+        Released -> Wei uses (released) {
+            released
+        }
+
+        Refunded -> Wei uses (refunded) {
+            refunded
+        }
+
+        Available -> Wei uses (funded, released, refunded) {
+            funded - released - refunded
+        }
+    }
+}
