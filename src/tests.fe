@@ -1,1 +1,267 @@
-Ly8gUnVuIHRoZSB0ZXN0cyB3aXRoIGBmZSB0ZXN0YC4KLy8KLy8gVGhlIEZlIDI2LjYgdGVzdCBFVk0ga2VlcHMgYGJsb2NrLnRpbWVzdGFtcGAgY29uc3RhbnQgaW5zaWRlIG9uZSB0ZXN0Ci8vIGFuZCBgY3JlYXRlMmAgd2l0aCBhIG5vbnplcm8gZGVwbG95bWVudCB2YWx1ZSByZXZlcnRzLCBzbyB0aGUKLy8gZGVhZGxpbmUtY3Jvc3NpbmcgdGVzdHMgdXNlIGEgemVybyBsb2NrIHBlcmlvZDogdGhlIGRlYWRsaW5lIGlzIHRoZW4KLy8gZXhhY3RseSAibm93IiwgZnVuZGluZyBpcyBzdGlsbCBhbGxvd2VkIGF0IHRoYXQgaW5zdGFudAovLyAodGltZXN0YW1wIDw9IGRlYWRsaW5lKSwgcmVsZWFzZSBpcyBjbG9zZWQgKHRpbWVzdGFtcCA8IGRlYWRsaW5lIGZhaWxzKSwKLy8gYW5kIHJlZnVuZCBpcyBvcGVuICh0aW1lc3RhbXAgPj0gZGVhZGxpbmUgaG9sZHMpLiBBIHJlYWwgZGVwbG95bWVudAovLyB3b3VsZCBjcm9zcyB0aGUgZGVhZGxpbmUgYnkgd2FpdGluZzsgdGhlIGxvZ2ljIGlzIGlkZW50aWNhbC4KCnVzZSBpbmdvdDo6e0VzY3Jvd01zZywgTWlsZXN0b25lRXNjcm93fQp1c2Ugc3RkOjpldm06OntkYXlzLCBldGhlcn0KCmZuIGRlcGxveShsb2NrOiBEdXJhdGlvbiwgY2xpZW50OiBBZGRyZXNzLCBmcmVlbGFuY2VyOiBBZGRyZXNzKSAtPiBBZGRyZXNzCnVzZXMgKGV2bTogbXV0IEV2bSkKewogICAgZXZtLmNyZWF0ZTI8TWlsZXN0b25lRXNjcm93PigKICAgICAgICB2YWx1ZTogV2VpOjp6ZXJvKCksCiAgICAgICAgYXJnczogKGNsaWVudCwgZnJlZWxhbmNlciwgbG9jayksCiAgICAgICAgc2FsdDogMCwKICAgICkKfQoKZm4gZnVuZChlc2Nyb3c6IEFkZHJlc3MsIHZhbHVlOiBXZWkpIC0+IFdlaSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIGV2bS5jYWxsKAogICAgICAgIGFkZHI6IGVzY3JvdywKICAgICAgICBnYXM6IDIwMDAwMCwKICAgICAgICB2YWx1ZSwKICAgICAgICBtZXNzYWdlOiBFc2Nyb3dNc2c6OkZ1bmQge30sCiAgICApCn0KCmZuIHJlbGVhc2UoZXNjcm93OiBBZGRyZXNzLCBhbW91bnQ6IFdlaSkgLT4gV2VpIHVzZXMgKGV2bTogbXV0IEV2bSkgewogICAgZXZtLmNhbGwoCiAgICAgICAgYWRkcjogZXNjcm93LAogICAgICAgIGdhczogMjAwMDAwLAogICAgICAgIHZhbHVlOiBXZWk6Onplcm8oKSwKICAgICAgICBtZXNzYWdlOiBFc2Nyb3dNc2c6OlJlbGVhc2UgeyBhbW91bnQgfSwKICAgICkKfQoKZm4gcmVmdW5kKGVzY3JvdzogQWRkcmVzcywgdG86IEFkZHJlc3MpIC0+IFdlaSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIGV2bS5jYWxsKAogICAgICAgIGFkZHI6IGVzY3JvdywKICAgICAgICBnYXM6IDIwMDAwMCwKICAgICAgICB2YWx1ZTogV2VpOjp6ZXJvKCksCiAgICAgICAgbWVzc2FnZTogRXNjcm93TXNnOjpSZWZ1bmQgeyB0byB9LAogICAgKQp9CgpmbiBhdmFpbGFibGUoZXNjcm93OiBBZGRyZXNzKSAtPiBXZWkgdXNlcyAoZXZtOiBtdXQgRXZtKSB7CiAgICBldm0uY2FsbCgKICAgICAgICBhZGRyOiBlc2Nyb3csCiAgICAgICAgZ2FzOiAxMDAwMDAsCiAgICAgICAgdmFsdWU6IFdlaTo6emVybygpLAogICAgICAgIG1lc3NhZ2U6IEVzY3Jvd01zZzo6QXZhaWxhYmxlIHt9LAogICAgKQp9CgojW3Rlc3QoYmFsYW5jZSA9IDEwXzAwMF8wMDBfMDAwXzAwMF8wMDBfMDAwKV0KZm4gZnVuZF90aGVuX3JlbGVhc2VfbWlsZXN0b25lcygpIHVzZXMgKGV2bTogbXV0IEV2bSkgewogICAgbGV0IGNsaWVudCA9IGV2bS5hZGRyZXNzKCkKICAgIGxldCBmcmVlbGFuY2VyID0gQWRkcmVzczo6bmV3KDB4MTIzNCkKICAgIGxldCBlc2Nyb3cgPSBkZXBsb3kobG9jazogZGF5cyg3KSwgY2xpZW50OiBjbGllbnQsIGZyZWVsYW5jZXI6IGZyZWVsYW5jZXIpCgogICAgLy8gVHdvIHRvcC11cHM6IDEgRVRIIHRoZW4gMiBFVEguCiAgICBhc3NlcnQhKGZ1bmQoZXNjcm93LCB2YWx1ZTogZXRoZXIoMSkpID09IGV0aGVyKDEpKQogICAgYXNzZXJ0IShmdW5kKGVzY3JvdywgdmFsdWU6IGV0aGVyKDIpKSA9PSBldGhlcigzKSkKICAgIGFzc2VydCEoYXZhaWxhYmxlKGVzY3JvdykgPT0gZXRoZXIoMykpCiAgICBhc3NlcnQhKGV2bS5iYWxhbmNlKGVzY3JvdykgPT0gZXRoZXIoMykpCgogICAgLy8gTWlsZXN0b25lIDE6IDEgRVRIIHRvIHRoZSBmcmVlbGFuY2VyLgogICAgYXNzZXJ0IShyZWxlYXNlKGVzY3JvdywgYW1vdW50OiBldGhlcigxKSkgPT0gZXRoZXIoMSkpCiAgICBhc3NlcnQhKGV2bS5iYWxhbmNlKGZyZWVsYW5jZXIpID09IGV0aGVyKDEpKQogICAgYXNzZXJ0IShhdmFpbGFibGUoZXNjcm93KSA9PSBldGhlcigyKSkKCiAgICAvLyBNaWxlc3RvbmUgMjogdGhlIHJlbWFpbmluZyAyIEVUSC4KICAgIGFzc2VydCEocmVsZWFzZShlc2Nyb3csIGFtb3VudDogZXRoZXIoMikpID09IGV0aGVyKDIpKQogICAgYXNzZXJ0IShldm0uYmFsYW5jZShmcmVlbGFuY2VyKSA9PSBldGhlcigzKSkKICAgIGFzc2VydCEoYXZhaWxhYmxlKGVzY3JvdykgPT0gV2VpOjp6ZXJvKCkpCiAgICBhc3NlcnQhKGV2bS5iYWxhbmNlKGVzY3JvdykgPT0gV2VpOjp6ZXJvKCkpCgogICAgbGV0IHJlbGVhc2VkOiBXZWkgPSBldm0KICAgICAgICAuY2FsbCgKICAgICAgICAgICAgYWRkcjogZXNjcm93LAogICAgICAgICAgICBnYXM6IDEwMDAwMCwKICAgICAgICAgICAgdmFsdWU6IFdlaTo6emVybygpLAogICAgICAgICAgICBtZXNzYWdlOiBFc2Nyb3dNc2c6OlJlbGVhc2VkIHt9LAogICAgICAgICkKICAgIGFzc2VydCEocmVsZWFzZWQgPT0gZXRoZXIoMykpCn0KCiNbdGVzdChiYWxhbmNlID0gMTBfMDAwXzAwMF8wMDBfMDAwXzAwMF8wMDApXQpmbiByZWZ1bmRfYWZ0ZXJfZGVhZGxpbmVfcmV0dXJuc19yZW1haW5kZXIoKSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIGxldCBjbGllbnQgPSBldm0uYWRkcmVzcygpCiAgICBsZXQgZnJlZWxhbmNlciA9IEFkZHJlc3M6Om5ldygweDEyMzQpCiAgICAvLyBaZXJvIGxvY2s6IHRoZSBkZWFkbGluZSBpcyByaWdodCBub3cuCiAgICBsZXQgZXNjcm93ID0gZGVwbG95KAogICAgICAgIGxvY2s6IER1cmF0aW9uOjp6ZXJvKCksCiAgICAgICAgY2xpZW50OiBjbGllbnQsCiAgICAgICAgZnJlZWxhbmNlcjogZnJlZWxhbmNlciwKICAgICkKCiAgICBhc3NlcnQhKGZ1bmQoZXNjcm93LCB2YWx1ZTogZXRoZXIoMikpID09IGV0aGVyKDIpKQogICAgYXNzZXJ0IShhdmFpbGFibGUoZXNjcm93KSA9PSBldGhlcigyKSkKCiAgICAvLyBUaGUgY2xpZW50IGNsYXdzIHRoZSB3aG9sZSByZW1haW5kZXIgYmFjaywgdG8gYSBwYXlvdXQgYWRkcmVzcwogICAgLy8gb2YgdGhlaXIgY2hvaWNlIChoZXJlIGEgZnJlc2ggYWRkcmVzcywgbm90IHRoZSB0ZXN0IGFjY291bnQ6IHRoZQogICAgLy8gZmUgdGVzdCBFVk0gY2Fubm90IHJlY2VpdmUgcGxhaW4gdmFsdWUgdHJhbnNmZXJzIGF0IHRoZSB0ZXN0CiAgICAvLyBhY2NvdW50IGl0c2VsZiDigJQgc2VlIE5PVEVTLm1kKS4KICAgIGxldCBwYXlvdXQgPSBBZGRyZXNzOjpuZXcoMHg1Njc4KQogICAgYXNzZXJ0IShyZWZ1bmQoZXNjcm93LCB0bzogcGF5b3V0KSA9PSBldGhlcigyKSkKICAgIGFzc2VydCEoZXZtLmJhbGFuY2UocGF5b3V0KSA9PSBldGhlcigyKSkKICAgIGFzc2VydCEoYXZhaWxhYmxlKGVzY3JvdykgPT0gV2VpOjp6ZXJvKCkpCiAgICBhc3NlcnQhKGV2bS5iYWxhbmNlKGVzY3JvdykgPT0gV2VpOjp6ZXJvKCkpCgogICAgbGV0IHJlZnVuZGVkOiBXZWkgPSBldm0KICAgICAgICAuY2FsbCgKICAgICAgICAgICAgYWRkcjogZXNjcm93LAogICAgICAgICAgICBnYXM6IDEwMDAwMCwKICAgICAgICAgICAgdmFsdWU6IFdlaTo6emVybygpLAogICAgICAgICAgICBtZXNzYWdlOiBFc2Nyb3dNc2c6OlJlZnVuZGVkIHt9LAogICAgICAgICkKICAgIGFzc2VydCEocmVmdW5kZWQgPT0gZXRoZXIoMikpCiAgICAvLyBUaGUgZnJlZWxhbmNlciBuZXZlciBnb3QgcGFpZC4KICAgIGFzc2VydCEoZXZtLmJhbGFuY2UoZnJlZWxhbmNlcikgPT0gV2VpOjp6ZXJvKCkpCn0KCiNbdGVzdChzaG91bGRfcmV2ZXJ0LCBiYWxhbmNlID0gMTBfMDAwXzAwMF8wMDBfMDAwXzAwMF8wMDApXQpmbiByZWxlYXNlX2FmdGVyX2RlYWRsaW5lX3JldmVydHMoKSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIGxldCBlc2Nyb3cgPSBkZXBsb3koCiAgICAgICAgbG9jazogRHVyYXRpb246Onplcm8oKSwKICAgICAgICBjbGllbnQ6IGV2bS5hZGRyZXNzKCksCiAgICAgICAgZnJlZWxhbmNlcjogQWRkcmVzczo6bmV3KDB4MTIzNCksCiAgICApCiAgICBsZXQgXyA9IGZ1bmQoZXNjcm93LCB2YWx1ZTogZXRoZXIoMSkpCiAgICBsZXQgXyA9IHJlbGVhc2UoZXNjcm93LCBhbW91bnQ6IGV0aGVyKDEpKQp9CgojW3Rlc3Qoc2hvdWxkX3JldmVydCwgYmFsYW5jZSA9IDEwXzAwMF8wMDBfMDAwXzAwMF8wMDBfMDAwKV0KZm4gcmVmdW5kX2JlZm9yZV9kZWFkbGluZV9yZXZlcnRzKCkgdXNlcyAoZXZtOiBtdXQgRXZtKSB7CiAgICBsZXQgZXNjcm93ID0gZGVwbG95KAogICAgICAgIGxvY2s6IGRheXMoNyksCiAgICAgICAgY2xpZW50OiBldm0uYWRkcmVzcygpLAogICAgICAgIGZyZWVsYW5jZXI6IEFkZHJlc3M6Om5ldygweDEyMzQpLAogICAgKQogICAgbGV0IF8gPSBmdW5kKGVzY3JvdywgdmFsdWU6IGV0aGVyKDEpKQogICAgbGV0IF8gPSByZWZ1bmQoZXNjcm93LCB0bzogQWRkcmVzczo6bmV3KDB4MTIzNCkpCn0KCiNbdGVzdChzaG91bGRfcmV2ZXJ0LCBiYWxhbmNlID0gMTBfMDAwXzAwMF8wMDBfMDAwXzAwMF8wMDApXQpmbiBzZWNvbmRfcmVmdW5kX3JldmVydHMoKSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIGxldCBlc2Nyb3cgPSBkZXBsb3koCiAgICAgICAgbG9jazogRHVyYXRpb246Onplcm8oKSwKICAgICAgICBjbGllbnQ6IGV2bS5hZGRyZXNzKCksCiAgICAgICAgZnJlZWxhbmNlcjogQWRkcmVzczo6bmV3KDB4MTIzNCksCiAgICApCiAgICBsZXQgXyA9IGZ1bmQoZXNjcm93LCB2YWx1ZTogZXRoZXIoMSkpCiAgICBsZXQgXyA9IHJlZnVuZChlc2Nyb3csIHRvOiBBZGRyZXNzOjpuZXcoMHgxMjM0KSkKICAgIGxldCBfID0gcmVmdW5kKGVzY3JvdywgdG86IEFkZHJlc3M6Om5ldygweDEyMzQpKQp9CgojW3Rlc3Qoc2hvdWxkX3JldmVydCwgYmFsYW5jZSA9IDEwXzAwMF8wMDBfMDAwXzAwMF8wMDBfMDAwKV0KZm4gb25seV9jbGllbnRfY2FuX2Z1bmQoKSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIC8vIFRoZSBjbGllbnQgaXMgc29tZW9uZSBlbHNlOyB0aGUgdGVzdCBhY2NvdW50IGlzIGEgc3RyYW5nZXIuCiAgICBsZXQgZXNjcm93ID0gZGVwbG95KAogICAgICAgIGxvY2s6IGRheXMoNyksCiAgICAgICAgY2xpZW50OiBBZGRyZXNzOjpuZXcoMHhiZWVmKSwKICAgICAgICBmcmVlbGFuY2VyOiBBZGRyZXNzOjpuZXcoMHgxMjM0KSwKICAgICkKICAgIGxldCBfID0gZnVuZChlc2Nyb3csIHZhbHVlOiBldGhlcigxKSkKfQoKI1t0ZXN0KHNob3VsZF9yZXZlcnQsIGJhbGFuY2UgPSAxMF8wMDBfMDAwXzAwMF8wMDBfMDAwXzAwMCldCmZuIG9ubHlfY2xpZW50X2Nhbl9yZWxlYXNlKCkgdXNlcyAoZXZtOiBtdXQgRXZtKSB7CiAgICBsZXQgZXNjcm93ID0gZGVwbG95KAogICAgICAgIGxvY2s6IGRheXMoNyksCiAgICAgICAgY2xpZW50OiBBZGRyZXNzOjpuZXcoMHhiZWVmKSwKICAgICAgICBmcmVlbGFuY2VyOiBBZGRyZXNzOjpuZXcoMHgxMjM0KSwKICAgICkKICAgIGxldCBfID0gcmVsZWFzZShlc2Nyb3csIGFtb3VudDogZXRoZXIoMSkpCn0KCiNbdGVzdChzaG91bGRfcmV2ZXJ0LCBiYWxhbmNlID0gMTBfMDAwXzAwMF8wMDBfMDAwXzAwMF8wMDApXQpmbiBvbmx5X2NsaWVudF9jYW5fcmVmdW5kKCkgdXNlcyAoZXZtOiBtdXQgRXZtKSB7CiAgICBsZXQgZXNjcm93ID0gZGVwbG95KAogICAgICAgIGxvY2s6IER1cmF0aW9uOjp6ZXJvKCksCiAgICAgICAgY2xpZW50OiBBZGRyZXNzOjpuZXcoMHhiZWVmKSwKICAgICAgICBmcmVlbGFuY2VyOiBBZGRyZXNzOjpuZXcoMHgxMjM0KSwKICAgICkKICAgIGxldCBfID0gcmVmdW5kKGVzY3JvdywgdG86IEFkZHJlc3M6Om5ldygweDEyMzQpKQp9CgojW3Rlc3Qoc2hvdWxkX3JldmVydCwgYmFsYW5jZSA9IDEwXzAwMF8wMDBfMDAwXzAwMF8wMDBfMDAwKV0KZm4gemVyb19mdW5kX3JldmVydHMoKSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIGxldCBlc2Nyb3cgPSBkZXBsb3koCiAgICAgICAgbG9jazogZGF5cyg3KSwKICAgICAgICBjbGllbnQ6IGV2bS5hZGRyZXNzKCksCiAgICAgICAgZnJlZWxhbmNlcjogQWRkcmVzczo6bmV3KDB4MTIzNCksCiAgICApCiAgICBsZXQgXyA9IGZ1bmQoZXNjcm93LCB2YWx1ZTogV2VpOjp6ZXJvKCkpCn0KCiNbdGVzdChzaG91bGRfcmV2ZXJ0LCBiYWxhbmNlID0gMTBfMDAwXzAwMF8wMDBfMDAwXzAwMF8wMDApXQpmbiB6ZXJvX3JlbGVhc2VfcmV2ZXJ0cygpIHVzZXMgKGV2bTogbXV0IEV2bSkgewogICAgbGV0IGVzY3JvdyA9IGRlcGxveSgKICAgICAgICBsb2NrOiBkYXlzKDcpLAogICAgICAgIGNsaWVudDogZXZtLmFkZHJlc3MoKSwKICAgICAgICBmcmVlbGFuY2VyOiBBZGRyZXNzOjpuZXcoMHgxMjM0KSwKICAgICkKICAgIGxldCBfID0gZnVuZChlc2Nyb3csIHZhbHVlOiBldGhlcigxKSkKICAgIGxldCBfID0gcmVsZWFzZShlc2Nyb3csIGFtb3VudDogV2VpOjp6ZXJvKCkpCn0KCiNbdGVzdChzaG91bGRfcmV2ZXJ0LCBiYWxhbmNlID0gMTBfMDAwXzAwMF8wMDBfMDAwXzAwMF8wMDApXQpmbiBvdmVyX3JlbGVhc2VfcmV2ZXJ0cygpIHVzZXMgKGV2bTogbXV0IEV2bSkgewogICAgbGV0IGVzY3JvdyA9IGRlcGxveSgKICAgICAgICBsb2NrOiBkYXlzKDcpLAogICAgICAgIGNsaWVudDogZXZtLmFkZHJlc3MoKSwKICAgICAgICBmcmVlbGFuY2VyOiBBZGRyZXNzOjpuZXcoMHgxMjM0KSwKICAgICkKICAgIGxldCBfID0gZnVuZChlc2Nyb3csIHZhbHVlOiBldGhlcigxKSkKICAgIGxldCBfID0gcmVsZWFzZShlc2Nyb3csIGFtb3VudDogZXRoZXIoMikpCn0KCiNbdGVzdChzaG91bGRfcmV2ZXJ0LCBiYWxhbmNlID0gMTBfMDAwXzAwMF8wMDBfMDAwXzAwMF8wMDApXQpmbiBkZXBsb3lfcmVqZWN0c19zYW1lX3BhcnRpZXMoKSB1c2VzIChldm06IG11dCBFdm0pIHsKICAgIGxldCB3aG8gPSBldm0uYWRkcmVzcygpCiAgICBsZXQgXyA9IGRlcGxveShsb2NrOiBkYXlzKDcpLCBjbGllbnQ6IHdobywgZnJlZWxhbmNlcjogd2hvKQp9CgojW3Rlc3QoYmFsYW5jZSA9IDEwXzAwMF8wMDBfMDAwXzAwMF8wMDBfMDAwKV0KZm4gdmlld3NfcmVwb3J0X3N0YXRlKCkgdXNlcyAoZXZtOiBtdXQgRXZtKSB7CiAgICBsZXQgY2xpZW50ID0gZXZtLmFkZHJlc3MoKQogICAgbGV0IGZyZWVsYW5jZXIgPSBBZGRyZXNzOjpuZXcoMHgxMjM0KQogICAgbGV0IGVzY3JvdyA9IGRlcGxveShsb2NrOiBkYXlzKDcpLCBjbGllbnQ6IGNsaWVudCwgZnJlZWxhbmNlcjogZnJlZWxhbmNlcikKICAgIGxldCBfID0gZnVuZChlc2Nyb3csIHZhbHVlOiBldGhlcig1KSkKICAgIGxldCBfID0gcmVsZWFzZShlc2Nyb3csIGFtb3VudDogZXRoZXIoMikpCgogICAgbGV0IGdvdF9jbGllbnQ6IEFkZHJlc3MgPSBldm0KICAgICAgICAuY2FsbCgKICAgICAgICAgICAgYWRkcjogZXNjcm93LAogICAgICAgICAgICBnYXM6IDEwMDAwMCwKICAgICAgICAgICAgdmFsdWU6IFdlaTo6emVybygpLAogICAgICAgICAgICBtZXNzYWdlOiBFc2Nyb3dNc2c6OkNsaWVudCB7fSwKICAgICAgICApCiAgICBhc3NlcnQhKGdvdF9jbGllbnQgPT0gY2xpZW50KQoKICAgIGxldCBnb3RfZnJlZWxhbmNlcjogQWRkcmVzcyA9IGV2bQogICAgICAgIC5jYWxsKAogICAgICAgICAgICBhZGRyOiBlc2Nyb3csCiAgICAgICAgICAgIGdhczogMTAwMDAwLAogICAgICAgICAgICB2YWx1ZTogV2VpOjp6ZXJvKCksCiAgICAgICAgICAgIG1lc3NhZ2U6IEVzY3Jvd01zZzo6RnJlZWxhbmNlciB7fSwKICAgICAgICApCiAgICBhc3NlcnQhKGdvdF9mcmVlbGFuY2VyID09IGZyZWVsYW5jZXIpCgogICAgbGV0IGZ1bmRlZDogV2VpID0gZXZtCiAgICAgICAgLmNhbGwoCiAgICAgICAgICAgIGFkZHI6IGVzY3JvdywKICAgICAgICAgICAgZ2FzOiAxMDAwMDAsCiAgICAgICAgICAgIHZhbHVlOiBXZWk6Onplcm8oKSwKICAgICAgICAgICAgbWVzc2FnZTogRXNjcm93TXNnOjpGdW5kZWQge30sCiAgICAgICAgKQogICAgYXNzZXJ0IShmdW5kZWQgPT0gZXRoZXIoNSkpCiAgICBhc3NlcnQhKGF2YWlsYWJsZShlc2Nyb3cpID09IGV0aGVyKDMpKQp9Cg==
+// Run the tests with `fe test`.
+//
+// The Fe 26.6 test EVM keeps `block.timestamp` constant inside one test
+// and `create2` with a nonzero deployment value reverts, so the
+// deadline-crossing tests use a zero lock period: the deadline is then
+// exactly "now", funding is still allowed at that instant
+// (timestamp <= deadline), release is closed (timestamp < deadline fails),
+// and refund is open (timestamp >= deadline holds). A real deployment
+// would cross the deadline by waiting; the logic is identical.
+
+use ingot::{EscrowMsg, MilestoneEscrow}
+use std::evm::{days, ether}
+
+fn deploy(lock: Duration, client: Address, freelancer: Address) -> Address
+uses (evm: mut Evm)
+{
+    evm.create2<MilestoneEscrow>(
+        value: Wei::zero(),
+        args: (client, freelancer, lock),
+        salt: 0,
+    )
+}
+
+fn fund(escrow: Address, value: Wei) -> Wei uses (evm: mut Evm) {
+    evm.call(
+        addr: escrow,
+        gas: 200000,
+        value,
+        message: EscrowMsg::Fund {},
+    )
+}
+
+fn release(escrow: Address, amount: Wei) -> Wei uses (evm: mut Evm) {
+    evm.call(
+        addr: escrow,
+        gas: 200000,
+        value: Wei::zero(),
+        message: EscrowMsg::Release { amount },
+    )
+}
+
+fn refund(escrow: Address, to: Address) -> Wei uses (evm: mut Evm) {
+    evm.call(
+        addr: escrow,
+        gas: 200000,
+        value: Wei::zero(),
+        message: EscrowMsg::Refund { to },
+    )
+}
+
+fn available(escrow: Address) -> Wei uses (evm: mut Evm) {
+    evm.call(
+        addr: escrow,
+        gas: 100000,
+        value: Wei::zero(),
+        message: EscrowMsg::Available {},
+    )
+}
+
+#[test(balance = 10_000_000_000_000_000_000)]
+fn fund_then_release_milestones() uses (evm: mut Evm) {
+    let client = evm.address()
+    let freelancer = Address::new(0x1234)
+    let escrow = deploy(lock: days(7), client: client, freelancer: freelancer)
+
+    // Two top-ups: 1 ETH then 2 ETH.
+    assert!(fund(escrow, value: ether(1)) == ether(1))
+    assert!(fund(escrow, value: ether(2)) == ether(3))
+    assert!(available(escrow) == ether(3))
+    assert!(evm.balance(escrow) == ether(3))
+
+    // Milestone 1: 1 ETH to the freelancer.
+    assert!(release(escrow, amount: ether(1)) == ether(1))
+    assert!(evm.balance(freelancer) == ether(1))
+    assert!(available(escrow) == ether(2))
+
+    // Milestone 2: the remaining 2 ETH.
+    assert!(release(escrow, amount: ether(2)) == ether(2))
+    assert!(evm.balance(freelancer) == ether(3))
+    assert!(available(escrow) == Wei::zero())
+    assert!(evm.balance(escrow) == Wei::zero())
+
+    let released: Wei = evm
+        .call(
+            addr: escrow,
+            gas: 100000,
+            value: Wei::zero(),
+            message: EscrowMsg::Released {},
+        )
+    assert!(released == ether(3))
+}
+
+#[test(balance = 10_000_000_000_000_000_000)]
+fn refund_after_deadline_returns_remainder() uses (evm: mut Evm) {
+    let client = evm.address()
+    let freelancer = Address::new(0x1234)
+    // Zero lock: the deadline is right now.
+    let escrow = deploy(
+        lock: Duration::zero(),
+        client: client,
+        freelancer: freelancer,
+    )
+
+    assert!(fund(escrow, value: ether(2)) == ether(2))
+    assert!(available(escrow) == ether(2))
+
+    // The client claws the whole remainder back, to a payout address
+    // of their choice (here a fresh address, not the test account: the
+    // fe test EVM cannot receive plain value transfers at the test
+    // account itself — see NOTES.md).
+    let payout = Address::new(0x5678)
+    assert!(refund(escrow, to: payout) == ether(2))
+    assert!(evm.balance(payout) == ether(2))
+    assert!(available(escrow) == Wei::zero())
+    assert!(evm.balance(escrow) == Wei::zero())
+
+    let refunded: Wei = evm
+        .call(
+            addr: escrow,
+            gas: 100000,
+            value: Wei::zero(),
+            message: EscrowMsg::Refunded {},
+        )
+    assert!(refunded == ether(2))
+    // The freelancer never got paid.
+    assert!(evm.balance(freelancer) == Wei::zero())
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn release_after_deadline_reverts() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: Duration::zero(),
+        client: evm.address(),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = fund(escrow, value: ether(1))
+    let _ = release(escrow, amount: ether(1))
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn refund_before_deadline_reverts() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: days(7),
+        client: evm.address(),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = fund(escrow, value: ether(1))
+    let _ = refund(escrow, to: Address::new(0x1234))
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn second_refund_reverts() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: Duration::zero(),
+        client: evm.address(),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = fund(escrow, value: ether(1))
+    let _ = refund(escrow, to: Address::new(0x1234))
+    let _ = refund(escrow, to: Address::new(0x1234))
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn only_client_can_fund() uses (evm: mut Evm) {
+    // The client is someone else; the test account is a stranger.
+    let escrow = deploy(
+        lock: days(7),
+        client: Address::new(0xbeef),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = fund(escrow, value: ether(1))
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn only_client_can_release() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: days(7),
+        client: Address::new(0xbeef),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = release(escrow, amount: ether(1))
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn only_client_can_refund() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: Duration::zero(),
+        client: Address::new(0xbeef),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = refund(escrow, to: Address::new(0x1234))
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn zero_fund_reverts() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: days(7),
+        client: evm.address(),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = fund(escrow, value: Wei::zero())
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn zero_release_reverts() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: days(7),
+        client: evm.address(),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = fund(escrow, value: ether(1))
+    let _ = release(escrow, amount: Wei::zero())
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn over_release_reverts() uses (evm: mut Evm) {
+    let escrow = deploy(
+        lock: days(7),
+        client: evm.address(),
+        freelancer: Address::new(0x1234),
+    )
+    let _ = fund(escrow, value: ether(1))
+    let _ = release(escrow, amount: ether(2))
+}
+
+#[test(should_revert, balance = 10_000_000_000_000_000_000)]
+fn deploy_rejects_same_parties() uses (evm: mut Evm) {
+    let who = evm.address()
+    let _ = deploy(lock: days(7), client: who, freelancer: who)
+}
+
+#[test(balance = 10_000_000_000_000_000_000)]
+fn views_report_state() uses (evm: mut Evm) {
+    let client = evm.address()
+    let freelancer = Address::new(0x1234)
+    let escrow = deploy(lock: days(7), client: client, freelancer: freelancer)
+    let _ = fund(escrow, value: ether(5))
+    let _ = release(escrow, amount: ether(2))
+
+    let got_client: Address = evm
+        .call(
+            addr: escrow,
+            gas: 100000,
+            value: Wei::zero(),
+            message: EscrowMsg::Client {},
+        )
+    assert!(got_client == client)
+
+    let got_freelancer: Address = evm
+        .call(
+            addr: escrow,
+            gas: 100000,
+            value: Wei::zero(),
+            message: EscrowMsg::Freelancer {},
+        )
+    assert!(got_freelancer == freelancer)
+
+    let funded: Wei = evm
+        .call(
+            addr: escrow,
+            gas: 100000,
+            value: Wei::zero(),
+            message: EscrowMsg::Funded {},
+        )
+    assert!(funded == ether(5))
+    assert!(available(escrow) == ether(3))
+}
