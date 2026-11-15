@@ -1,1 +1,111 @@
-IyBNaWxlc3RvbmUgRXNjcm93IOKAlCB0cnVzdC1taW5pbWl6ZWQgZnJlZWxhbmNlIHBheW1lbnRzIGluIEZlCgoqKlBpdGNoOioqIEEgZnJlZWxhbmNlciBlc2Nyb3cgaW4gRmUgd2hlcmUgdGhlIGNsaWVudCBmdW5kcyBtaWxlc3RvbmVzIGluIEVUSCwgcmVsZWFzZXMgcGF5bWVudCBwZXIgbWlsZXN0b25lLCBhbmQgY2xhd3MgYmFjayB3aGF0ZXZlciBpcyB1bnJlbGVhc2VkIGFmdGVyIHRoZSBkZWFkbGluZSDigJQgbm8gb3JhY2xlLCBubyBkaXNwdXRlIGNvbW1pdHRlZSwgbm8gdG9rZW46IHRoZSBkZWFkbGluZSBpcyB0aGUgb25seSBhcmJpdHJhdG9yLgoKRW50cnkgZm9yIHRoZSBbRmUgQnVpbGRlcnMgQ2hhbGxlbmdlXShodHRwczovL2ZlLWxhbmcub3JnL2NvbnRlc3QvKSAoQXJnb3QgQ29sbGVjdGl2ZSwgJDUsMDAwIHByaXplIHBvb2wpLiBCdWlsdCBieSBBY2htYWQgUmV6YSBCYWVoYXFpIChCb2dvciwgSW5kb25lc2lhKSwgc29sby4KCiMjIFRoZSBwcm9ibGVtCgpGcmVlbGFuY2Ugd29yayBydW5zIG9uIHRydXN0OiB0aGUgY2xpZW50IGZlYXJzIHBheWluZyBmb3Igd29yayB0aGF0IG5ldmVyIGFycml2ZXMsIHRoZSBmcmVlbGFuY2VyIGZlYXJzIGRlbGl2ZXJpbmcgd29yayB0aGF0IG5ldmVyIGdldHMgcGFpZC4gRXhpc3RpbmcgZXNjcm93IHNvbHV0aW9ucyBhZGQgYSB0cnVzdGVkIHRoaXJkIHBhcnR5IChhIHBsYXRmb3JtLCBhIG11bHRpc2lnIGNvbW1pdHRlZSwgYW4gYXJiaXRyYXRvcikgb3IgYSBnb3Zlcm5hbmNlIHRva2VuIOKAlCBlYWNoIG9uZSBhIG5ldyBwYXJ0eSB0byB0cnVzdCwgYSBuZXcgZmVlLCBhbmQgYSBuZXcgZmFpbHVyZSBtb2RlLiBGb3Igc21hbGwgZnJlZWxhbmNlIGpvYnMsIHRoYXQgb3ZlcmhlYWQga2lsbHMgdGhlIGRlYWwuCgojIyBBcHByb2FjaAoKT25lIGVzY3JvdyBjb250cmFjdCBwZXIgam9iLCBkZXBsb3llZCB3aXRoIHRoZSBjbGllbnQsIHRoZSBmcmVlbGFuY2VyLCBhbmQgYSBsb2NrIHBlcmlvZC4gVGhlIGRlYWRsaW5lIHNwbGl0cyB0aGUgY29udHJhY3QncyBsaWZlIGludG8gdHdvIHBoYXNlczoKCi0gKipCZWZvcmUgdGhlIGRlYWRsaW5lKiog4oCUIHRoZSBjbGllbnQgZnVuZHMgdGhlIGVzY3JvdyAoYGZ1bmRgLCBwYXlhYmxlLCBhbnkgbnVtYmVyIG9mIHRvcC11cHMpIGFuZCBwYXlzIG91dCBtaWxlc3RvbmVzIChgcmVsZWFzZShhbW91bnQpYCkgYXMgd29yayBpcyBkZWxpdmVyZWQuIE9ubHkgdGhlIGNsaWVudCBjYW4gZnVuZCBvciByZWxlYXNlLgotICoqQXQgLyBhZnRlciB0aGUgZGVhZGxpbmUqKiDigJQgdGhlIHJlbGVhc2Ugd2luZG93IGNsb3NlcyBhbmQgdGhlIGNsaWVudCBjYW4gY2xhdyBiYWNrIHRoZSB1bnJlbGVhc2VkIHJlbWFpbmRlciAoYHJlZnVuZCh0bylgKS4gVGhlIGZyZWVsYW5jZXIncyB3aW5kb3cgdG8gYmUgcGFpZCBoYXMgZW5kZWQuCgpUaGF0IGlzIHRoZSB3aG9sZSBtZWNoYW5pc20uIE5vIGRpc3B1dGUgZmxvdyBpcyBuZWVkZWQgYmVjYXVzZSB0aGUgY2xpZW50IG5ldmVyIGxvc2VzIHRoZSBhYmlsaXR5IHRvIHJlY292ZXIgdW5yZWxlYXNlZCBmdW5kcywgYW5kIHRoZSBmcmVlbGFuY2VyIGlzIHBhaWQgdGhlIG1vbWVudCB0aGUgY2xpZW50IGFwcHJvdmVzIGEgbWlsZXN0b25lIOKAlCBwYXltZW50IGlzIG9uZSB0cmFuc2FjdGlvbiwgbm90IGFuIGludm9pY2UgY3ljbGUuCgpBY2NvdW50aW5nIGlzIGV4cGxpY2l0OiBgZnVuZGVkYCwgYHJlbGVhc2VkYCwgYW5kIGByZWZ1bmRlZGAgYXJlIHRyYWNrZWQgc2VwYXJhdGVseSwgYW5kIGBhdmFpbGFibGUoKSA9IGZ1bmRlZCAtIHJlbGVhc2VkIC0gcmVmdW5kZWRgLiBFdmVyeSBzdGF0ZSBjaGFuZ2UgaGFwcGVucyAqKmJlZm9yZSoqIHRoZSBFVEggdHJhbnNmZXIgKGNoZWNrcy1lZmZlY3RzLWludGVyYWN0aW9ucyksIHNvIGEgcmVlbnRyYW50IGNhbGwgZmluZHMgbm90aGluZyBsZWZ0IHRvIHRha2UuIEZ1bmRpbmcgY2xvc2VzIGF0IHRoZSBkZWFkbGluZSBpbnN0YW50IChgdGltZXN0YW1wIDw9IGRlYWRsaW5lYCksIHJlbGVhc2UgcmVxdWlyZXMgc3RyaWN0bHkgYmVmb3JlIChgdGltZXN0YW1wIDwgZGVhZGxpbmVgKSwgcmVmdW5kIHJlcXVpcmVzIGF0IG9yIGFmdGVyIChgdGltZXN0YW1wID49IGRlYWRsaW5lYCkuCgojIyBGZSBoaWdobGlnaHQKCkZlJ3MgKiplZmZlY3Qgc3lzdGVtKiogbWFrZXMgdGhlIHNlY3VyaXR5IGFyZ3VtZW50IHZpc2libGUgaW4gdGhlIGNvZGUuIEVhY2ggbWVzc2FnZSBoYW5kbGVyIGRlY2xhcmVzIGV4YWN0bHkgd2hpY2ggc3RvcmFnZSBpdCB0b3VjaGVzIGluIGl0cyBgdXNlc2AgY2xhdXNlIOKAlCB0aGUgY29tcGlsZXIgcmVqZWN0cyBhIGhhbmRsZXIgdGhhdCByZWFkcyBvciB3cml0ZXMgYW55dGhpbmcgaXQgZGlkIG5vdCBkZWNsYXJlOgoKYGBgZmUKUmVsZWFzZSB7IGFtb3VudCB9IC0+IFdlaSB1c2VzICgKICAgIGN0eCwgY2xpZW50LCBtdXQgY2FsbCwgZnJlZWxhbmNlciwgZGVhZGxpbmUsCiAgICBtdXQgcmVsZWFzZWQsIGZ1bmRlZCwgcmVmdW5kZWQsIG11dCBsb2csCikgewogICAgYXNzZXJ0IShjdHguY2FsbGVyKCkgPT0gY2xpZW50LCAiT25seSB0aGUgY2xpZW50IGNhbiByZWxlYXNlIikKICAgIGFzc2VydCEoY3R4LnRpbWVzdGFtcCgpIDwgZGVhZGxpbmUsICJEZWFkbGluZSBoYXMgcGFzc2VkIikKICAgIGFzc2VydCEoYW1vdW50IDw9IGZ1bmRlZCAtIHJlbGVhc2VkIC0gcmVmdW5kZWQsICJBbW91bnQgZXhjZWVkcyBhdmFpbGFibGUgYmFsYW5jZSIpCgogICAgLy8gRWZmZWN0cyBiZWZvcmUgaW50ZXJhY3Rpb246IGEgcmVlbnRyYW50IGNhbGwgZmluZHMgdGhlCiAgICAvLyBiYWxhbmNlIGFscmVhZHkgc3BlbnQuCiAgICByZWxlYXNlZCA9IHJlbGVhc2VkICsgYW1vdW50CiAgICBhc3NlcnQhKAogICAgICAgIGNhbGwuc2VuZF92YWx1ZShhZGRyOiBmcmVlbGFuY2VyLCBnYXM6IDAsIHZhbHVlOiBhbW91bnQpLnN1Y2Nlc3MoKSwKICAgICAgICAiVHJhbnNmZXIgZmFpbGVkIiwKICAgICkKICAgIGxvZy5lbWl0KFJlbGVhc2VkIHsgdG86IGZyZWVsYW5jZXIsIGFtb3VudCwgdG90YWxfcmVsZWFzZWQ6IHJlbGVhc2VkIH0pCiAgICBhbW91bnQKfQpgYGAKClRoZSBgdXNlc2AgY2xhdXNlIGlzIHRoZSBhdWRpdCBzdXJmYWNlOiBgbXV0IHJlbGVhc2VkYCBpcyB0aGUgb25seSBtdXRhdGlvbiwgYGNhbGxgIGlzIHRoZSBvbmx5IGV4dGVybmFsIGludGVyYWN0aW9uLCBhbmQgdGhlIG9yZGVyaW5nIChtdXRhdGlvbiwgdGhlbiBzZW5kKSBpcyByaWdodCB0aGVyZSBpbiB0aGUgc291cmNlLiBUaGUgc2FtZSBkaXNjaXBsaW5lIGFwcGxpZXMgdG8gYGluaXRgIOKAlCBpdHMgcGFyYW1ldGVycyBtdXN0IG5vdCBzaGFkb3cgc3RvcmFnZSBmaWVsZHMsIHNvIGBjbGllbnRfYWRkcmAgLyBgZnJlZWxhbmNlcl9hZGRyYCBhcmUgYm91bmQgZXhwbGljaXRseSBhbmQgYXNzaWduZWQgdG8gc3RvcmFnZS4gU29saWRpdHktc3R5bGUgc2VsZWN0b3JzIChgI1tzZWxlY3RvciA9IHNvbCgicmVsZWFzZSh1aW50MjU2KSIpXWApIGtlZXAgdGhlIGNvbnRyYWN0IGNhbGxhYmxlIGZyb20gYW55IEVWTSB0b29saW5nIHdpdGggYSBzdGFuZGFyZCBBQkkuCgojIyBBcmNoaXRlY3R1cmUKClNpbmdsZSBpbmdvdCwgdHdvIHNvdXJjZSBmaWxlczoKCnwgUGF0aCB8IENvbnRlbnRzIHwKfCAtLS0gfCAtLS0gfAp8IGBmZS50b21sYCB8IEluZ290IG1hbmlmZXN0IChgbWlsZXN0b25lX2VzY3Jvd2AgdjAuMS4wKS4gfAp8IGBzcmMvbGliLmZlYCB8IGBNaWxlc3RvbmVFc2Nyb3dgIGNvbnRyYWN0OiBgRXNjcm93TXNnYCBtZXNzYWdlIGVudW0gKDExIG1lc3NhZ2VzKSwgdGhyZWUgZXZlbnRzIChgRnVuZGVkYCwgYFJlbGVhc2VkYCwgYFJlZnVuZGVkYCksIHNpeCBzdG9yYWdlIGZpZWxkcy4gfAp8IGBzcmMvdGVzdHMuZmVgIHwgMTMgdGVzdHMgaW4gRmUncyBvd24gdGVzdCBmcmFtZXdvcmsgKGBmZSB0ZXN0YCksIHVzaW5nIGBldm0uY3JlYXRlMmAgLyBgZXZtLmNhbGxgIGFnYWluc3QgdGhlIGNvbnRyYWN0LiB8CnwgYC5naXRodWIvd29ya2Zsb3dzL2NpLnltbGAgfCBDaGVja3MgZm9ybWF0dGluZywgcnVucyB0ZXN0cywgYnVpbGRzIOKAlCB3aXRoIEZlIDI2LjYuMCBvbiBldmVyeSBwdXNoLiB8CnwgYExJQ0VOU0VgIHwgQXBhY2hlLTIuMCAoZnJvbSB0aGUgb2ZmaWNpYWwgc3RhcnRlcikuIHwKCk1lc3NhZ2VzOiBgZnVuZCgpYCAocGF5YWJsZSksIGByZWxlYXNlKHVpbnQyNTYpYCwgYHJlZnVuZChhZGRyZXNzKWAsIHBsdXMgdmlldyBmdW5jdGlvbnMgYGNsaWVudCgpYCwgYGZyZWVsYW5jZXIoKWAsIGBkZWFkbGluZSgpYCwgYGZ1bmRlZCgpYCwgYHJlbGVhc2VkKClgLCBgcmVmdW5kZWQoKWAsIGBhdmFpbGFibGUoKWAuIGByZWZ1bmRgIHRha2VzIGEgcGF5b3V0IGFkZHJlc3MgKG5vcm1hbGx5IHRoZSBjbGllbnQncyBvd24gd2FsbGV0KSwgbWlycm9yaW5nIHRoZSBvZmZpY2lhbCBzdGFydGVyIFZhdWx0J3MgYHdpdGhkcmF3KGFkZHJlc3MpYCBwYXR0ZXJuLgoKIyMgQnVpbGQgYW5kIHRlc3QKCmBgYHNoCmZlIC0tdmVyc2lvbiAgICMgZmUgMjYuNi4wICg1YjNmOTZhKQpmZSBmbXQgLS1jaGVjawpmZSB0ZXN0ICAgICAgICAjIDEzIHBhc3NlZDsgMCBmYWlsZWQKZmUgYnVpbGQgICAgICAgIyBvdXQvTWlsZXN0b25lRXNjcm93LntiaW4scnVudGltZS5iaW4sYWJpLmpzb259CmBgYAoKSW5zdGFsbCBGZSB3aXRoIFtmZXVwXShodHRwczovL2ZlLWxhbmcub3JnL2dldHRpbmctc3RhcnRlZC9pbnN0YWxsYXRpb24vKSAoRmUgMjYuNS4wIG9yIGxhdGVyIGlzIGFsbG93ZWQgZm9yIHRoZSBjb250ZXN0OyB0aGlzIHByb2plY3Qgd2FzIGJ1aWx0IGFuZCB0ZXN0ZWQgd2l0aCAyNi42LjApOgoKYGBgc2gKY3VybCAtZnNTTCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYXJnb3RvcmcvZmUvbWFzdGVyL2ZldXAvZmV1cC5zaCB8IGJhc2ggLXMgLS0gLS12ZXJzaW9uIHYyNi42LjAKc291cmNlIH4vLmZlL2VudgpgYGAKCk5vIG90aGVyIHRvb2xzIGFyZSBuZWVkZWQuIE5vIG1haW5uZXQgZGVwbG95bWVudCBpcyByZXF1aXJlZCAoYW5kIG5vbmUgd2FzIG1hZGUpIOKAlCB0aGUgY29udHJhY3QgaXMgdmVyaWZpZWQgZW50aXJlbHkgYnkgYGZlIHRlc3RgIGxvY2FsbHkuCgojIyBEZW1vCgpSZXByb2R1Y2libGUgQ0xJIGV4YW1wbGUg4oCUIHRoZSBoYXBweSBwYXRoLCBmcm9tIHRoZSB0ZXN0IHN1aXRlOgoKYGBgc2gKZmUgdGVzdCBmdW5kX3RoZW5fcmVsZWFzZV9taWxlc3RvbmVzCmBgYAoKV2hhdCBpdCBwcm92ZXM6IGRlcGxveSB3aXRoIGEgNy1kYXkgbG9jaywgZnVuZCAxIEVUSCArIDIgRVRILCByZWxlYXNlIG1pbGVzdG9uZSAxICgxIEVUSCkgYW5kIG1pbGVzdG9uZSAyICgyIEVUSCkgdG8gdGhlIGZyZWVsYW5jZXIsIGFuZCBlbmQgd2l0aCBlc2Nyb3cgYmFsYW5jZSAwIGFuZCBgYXZhaWxhYmxlKCkgPT0gMGAuIFRoZSByZWZ1bmQgcGF0aCBpcyBjb3ZlcmVkIGJ5IGByZWZ1bmRfYWZ0ZXJfZGVhZGxpbmVfcmV0dXJuc19yZW1haW5kZXJgICh6ZXJvIGxvY2sgPSBkZWFkbGluZSBpcyAibm93IjogZnVuZCAyIEVUSCwgcmVmdW5kIDIgRVRIIHRvIGEgcGF5b3V0IGFkZHJlc3MsIGVzY3JvdyBlbmRzIGVtcHR5KS4gUnVuIHRoZSBmdWxsIHN1aXRlIHdpdGggYGZlIHRlc3RgLgoKIyMgTGltaXRhdGlvbnMKCi0gKipPbmUgam9iIHBlciBjb250cmFjdC4qKiBUaGVyZSBpcyBubyBmYWN0b3J5IGFuZCBubyBtdWx0aS1qb2IgcmVnaXN0cnk7IGRlcGxveWluZyBvbmUgZXNjcm93IHBlciBmcmVlbGFuY2Ugam9iIGlzIHRoZSBpbnRlbmRlZCB1c2UuIEEgZmFjdG9yeSB3b3VsZCBiZSB0aGUgbmF0dXJhbCBuZXh0IHN0ZXAuCi0gKipObyBwYXJ0aWFsLWRpc3B1dGUgZmxvdy4qKiBJZiB0aGUgY2xpZW50IGFuZCBmcmVlbGFuY2VyIGRpc2FncmVlIG1pZC1qb2IsIHRoZSBjb250cmFjdCBvZmZlcnMgbm8gYXJiaXRyYXRpb24g4oCUIHRoZSBjbGllbnQgc2ltcGx5IHN0b3BzIHJlbGVhc2luZywgYW5kIHRoZSByZW1haW5kZXIgaXMgcmVmdW5kZWQgYWZ0ZXIgdGhlIGRlYWRsaW5lLiBUaGlzIGlzIGEgZGVsaWJlcmF0ZSBkZXNpZ24gY2hvaWNlIChkZWFkbGluZSBhcyB0aGUgb25seSBhcmJpdHJhdG9yKSwgbm90IGFuIG92ZXJzaWdodCwgYnV0IGl0IG1lYW5zIGEgbWFsaWNpb3VzIGNsaWVudCBjYW4gc3RhbGwgYSBtaWxlc3RvbmUgdW50aWwgdGhlIGRlYWRsaW5lIGFuZCBjbGF3IHRoZSBmdW5kcyBiYWNrLiBBIGNvbW1pdC9yZXZlYWwgZGVsaXZlcnkgaGFzaCBvciBhIG11dHVhbC1hZ3JlZW1lbnQgZWFybHktcmVmdW5kIHdvdWxkIG1pdGlnYXRlIHRoYXQuCi0gKipEZWFkbGluZSBzZW1hbnRpY3MgYXQgdGhlIGJvdW5kYXJ5LioqIEZ1bmRpbmcgaXMgYWxsb3dlZCBhdCB0aGUgZXhhY3QgZGVhZGxpbmUgaW5zdGFudCAoYHRpbWVzdGFtcCA8PSBkZWFkbGluZWApIHdoaWxlIHJlbGVhc2UgcmVxdWlyZXMgc3RyaWN0bHkgYmVmb3JlIGl0LiBUaGlzIGlzIHdoYXQgbWFrZXMgdGhlIHBvc3QtZGVhZGxpbmUgcGF0aCB0ZXN0YWJsZSBpbiBGZSdzIHRlc3QgZnJhbWV3b3JrIChzZWUgTk9URVMubWQpOyBvbiBhIGxpdmUgY2hhaW4gdGhlIHNhbWUgcnVsZXMgYXBwbHkuCi0gKipUZXN0LWZyYW1ld29yayBsaW1pdHMgKG5vdCBjb250cmFjdCBidWdzKS4qKiBUaGUgRmUgMjYuNiB0ZXN0IEVWTSBrZWVwcyBgYmxvY2sudGltZXN0YW1wYCBjb25zdGFudCB3aXRoaW4gYSB0ZXN0IGFuZCBjYW5ub3QgZGVwbG95IHdpdGggdmFsdWUgKGBjcmVhdGUyYCB3aXRoIG5vbnplcm8gdmFsdWUgcmV2ZXJ0cyksIHNvIHRoZXJlIGlzIG5vIHRydWUgIndhaXQgcGFzdCB0aGUgZGVhZGxpbmUiIHRlc3Qg4oCUIHRoZSBkZWFkbGluZS1jcm9zc2luZyB0ZXN0cyB1c2UgYSB6ZXJvIGxvY2sgcGVyaW9kIGluc3RlYWQuIFRoZSBgZmUgdGVzdGAgRVZNIGFsc28gY2Fubm90IHJlY2VpdmUgYSBwbGFpbiB2YWx1ZSB0cmFuc2ZlciBhdCB0aGUgdGVzdCBhY2NvdW50IGFkZHJlc3MsIHdoaWNoIGlzIHdoeSBgcmVmdW5kYCB0YWtlcyBhIHBheW91dCBhZGRyZXNzLiBEZXRhaWxzIGluIE5PVEVTLm1kLgotICoqTm90IGF1ZGl0ZWQuKiogVGhlIGNvbnRyYWN0IGlzIHNtYWxsIGFuZCB0aGUgaW52YXJpYW50cyBhcmUgY292ZXJlZCBieSB0ZXN0cywgYnV0IGl0IGhhcyBub3QgYmVlbiBwcm9mZXNzaW9uYWxseSBhdWRpdGVkLiBEbyBub3QgdXNlIGl0IGZvciBsYXJnZSBhbW91bnRzIHdpdGhvdXQgb25lLgoKIyMgRGVjbGFyYXRpb24KCi0gKipQcmUtZXhpc3Rpbmcgd29yazoqKiBTdGFydGVkIGZyb20gdGhlIG9mZmljaWFsIFtGZSBCdWlsZGVycyBDaGFsbGVuZ2Ugc3RhcnRlcl0oaHR0cHM6Ly9naXRodWIuY29tL2ZlLWxhbmcvYnVpbGRlcnMtY2hhbGxlbmdlLXN0YXJ0ZXIpIChjb21taXQgYGY5ZDlhYTkyYTAzYWY4MmMyYmJiMGRjMmUwODEwMjQ0ZWIxM2U2ODZgKSDigJQgaXRzIGBmZS50b21sYCwgQ0kgd29ya2Zsb3csIGBMSUNFTlNFYCwgUkVBRE1FIHNrZWxldG9uLCBhbmQgdGhlIGV4YW1wbGUgVmF1bHQgY29udHJhY3QuIFRoZSBWYXVsdCB3YXMgZnVsbHkgcmVwbGFjZWQgYnkgYE1pbGVzdG9uZUVzY3Jvd2A7IG5vIFZhdWx0IGNvZGUgcmVtYWlucy4gQWxsIGVzY3JvdyBkZXNpZ24sIGNvZGUsIGFuZCB0ZXN0cyB3ZXJlIHdyaXR0ZW4gZHVyaW5nIHRoZSBjb250ZXN0IHdpbmRvdyAoTm92IDE1LCAyMDI2KS4KLSAqKlRoaXJkLXBhcnR5IGNvZGU6KiogT25seSB0aGUgc3RhcnRlciB0ZW1wbGF0ZSBhYm92ZSAoQXBhY2hlLTIuMCkgYW5kIHRoZSBGZSBzdGFuZGFyZCBsaWJyYXJ5IChgc3RkOjpldm1gKS4gTm8gb3RoZXIgZGVwZW5kZW5jaWVzLgotICoqQUkgYXNzaXN0YW5jZToqKiBCdWlsdCB3aXRoIGFuIEFJIGNvZGluZyBhc3Npc3RhbnQgKE11c2UpOiB0aGUgYXNzaXN0YW50IHdyb3RlIHRoZSBjb250cmFjdCBhbmQgdGVzdHMsIHJhbiBgZmUgdGVzdGAgLyBgZmUgYnVpbGRgLCBhbmQgZGVidWdnZWQgdGhlIGZhaWx1cmVzIGRvY3VtZW50ZWQgaW4gTk9URVMubWQuIFRoZSBodW1hbiAoQWNobWFkIFJlemEgQmFlaGFxaSkgaXMgdGhlIHJlc3BvbnNpYmxlIGNvbnRhY3QgYW5kIHJldmlld2VkIHRoZSByZXN1bHQuCgojIyBUZWFtCgpBY2htYWQgUmV6YSBCYWVoYXFpIChzb2xvKSDigJQgQm9nb3IsIEluZG9uZXNpYS4gQ29udGFjdDogZXJqZWdhbnRlbmczQGdtYWlsLmNvbS4gR2l0SHViOiBzbG93d3draXNzLgoKIyMgTGljZW5zZQoKQXBhY2hlLTIuMC4gU2VlIGBMSUNFTlNFYC4K
+# Milestone Escrow — trust-minimized freelance payments in Fe
+
+**Pitch:** A freelancer escrow in Fe where the client funds milestones in ETH, releases payment per milestone, and claws back whatever is unreleased after the deadline — no oracle, no dispute committee, no token: the deadline is the only arbitrator.
+
+Entry for the [Fe Builders Challenge](https://fe-lang.org/contest/) (Argot Collective, $5,000 prize pool). Built by Achmad Reza Baehaqi (Bogor, Indonesia), solo.
+
+## The problem
+
+Freelance work runs on trust: the client fears paying for work that never arrives, the freelancer fears delivering work that never gets paid. Existing escrow solutions add a trusted third party (a platform, a multisig committee, an arbitrator) or a governance token — each one a new party to trust, a new fee, and a new failure mode. For small freelance jobs, that overhead kills the deal.
+
+## Approach
+
+One escrow contract per job, deployed with the client, the freelancer, and a lock period. The deadline splits the contract's life into two phases:
+
+- **Before the deadline** — the client funds the escrow (`fund`, payable, any number of top-ups) and pays out milestones (`release(amount)`) as work is delivered. Only the client can fund or release.
+- **At / after the deadline** — the release window closes and the client can claw back the unreleased remainder (`refund(to)`). The freelancer's window to be paid has ended.
+
+That is the whole mechanism. No dispute flow is needed because the client never loses the ability to recover unreleased funds, and the freelancer is paid the moment the client approves a milestone — payment is one transaction, not an invoice cycle.
+
+Accounting is explicit: `funded`, `released`, and `refunded` are tracked separately, and `available() = funded - released - refunded`. Every state change happens **before** the ETH transfer (checks-effects-interactions), so a reentrant call finds nothing left to take. Funding closes at the deadline instant (`timestamp <= deadline`), release requires strictly before (`timestamp < deadline`), refund requires at or after (`timestamp >= deadline`).
+
+## Fe highlight
+
+Fe's **effect system** makes the security argument visible in the code. Each message handler declares exactly which storage it touches in its `uses` clause — the compiler rejects a handler that reads or writes anything it did not declare:
+
+```fe
+Release { amount } -> Wei uses (
+    ctx, client, mut call, freelancer, deadline,
+    mut released, funded, refunded, mut log,
+) {
+    assert!(ctx.caller() == client, "Only the client can release")
+    assert!(ctx.timestamp() < deadline, "Deadline has passed")
+    assert!(amount <= funded - released - refunded, "Amount exceeds available balance")
+
+    // Effects before interaction: a reentrant call finds the
+    // balance already spent.
+    released = released + amount
+    assert!(
+        call.send_value(addr: freelancer, gas: 0, value: amount).success(),
+        "Transfer failed",
+    )
+    log.emit(Released { to: freelancer, amount, total_released: released })
+    amount
+}
+```
+
+The `uses` clause is the audit surface: `mut released` is the only mutation, `call` is the only external interaction, and the ordering (mutation, then send) is right there in the source. The same discipline applies to `init` — its parameters must not shadow storage fields, so `client_addr` / `freelancer_addr` are bound explicitly and assigned to storage. Solidity-style selectors (`#[selector = sol("release(uint256)")]`) keep the contract callable from any EVM tooling with a standard ABI.
+
+## Architecture
+
+Single ingot, two source files:
+
+| Path | Contents |
+| --- | --- |
+| `fe.toml` | Ingot manifest (`milestone_escrow` v0.1.0). |
+| `src/lib.fe` | `MilestoneEscrow` contract: `EscrowMsg` message enum (11 messages), three events (`Funded`, `Released`, `Refunded`), six storage fields. |
+| `src/tests.fe` | 13 tests in Fe's own test framework (`fe test`), using `evm.create2` / `evm.call` against the contract. |
+| `.github/workflows/ci.yml` | Checks formatting, runs tests, builds — with Fe 26.6.0 on every push. |
+| `LICENSE` | Apache-2.0 (from the official starter). |
+
+Messages: `fund()` (payable), `release(uint256)`, `refund(address)`, plus view functions `client()`, `freelancer()`, `deadline()`, `funded()`, `released()`, `refunded()`, `available()`. `refund` takes a payout address (normally the client's own wallet), mirroring the official starter Vault's `withdraw(address)` pattern.
+
+## Build and test
+
+```sh
+fe --version   # fe 26.6.0 (5b3f96a)
+fe fmt --check
+fe test        # 13 passed; 0 failed
+fe build       # out/MilestoneEscrow.{bin,runtime.bin,abi.json}
+```
+
+Install Fe with [feup](https://fe-lang.org/getting-started/installation/) (Fe 26.5.0 or later is allowed for the contest; this project was built and tested with 26.6.0):
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/argotorg/fe/master/feup/feup.sh | bash -s -- --version v26.6.0
+source ~/.fe/env
+```
+
+No other tools are needed. No mainnet deployment is required (and none was made) — the contract is verified entirely by `fe test` locally.
+
+## Demo
+
+Reproducible CLI example — the happy path, from the test suite:
+
+```sh
+fe test fund_then_release_milestones
+```
+
+What it proves: deploy with a 7-day lock, fund 1 ETH + 2 ETH, release milestone 1 (1 ETH) and milestone 2 (2 ETH) to the freelancer, and end with escrow balance 0 and `available() == 0`. The refund path is covered by `refund_after_deadline_returns_remainder` (zero lock = deadline is "now": fund 2 ETH, refund 2 ETH to a payout address, escrow ends empty). Run the full suite with `fe test`.
+
+## Limitations
+
+- **One job per contract.** There is no factory and no multi-job registry; deploying one escrow per freelance job is the intended use. A factory would be the natural next step.
+- **No partial-dispute flow.** If the client and freelancer disagree mid-job, the contract offers no arbitration — the client simply stops releasing, and the remainder is refunded after the deadline. This is a deliberate design choice (deadline as the only arbitrator), not an oversight, but it means a malicious client can stall a milestone until the deadline and claw the funds back. A commit/reveal delivery hash or a mutual-agreement early-refund would mitigate that.
+- **Deadline semantics at the boundary.** Funding is allowed at the exact deadline instant (`timestamp <= deadline`) while release requires strictly before it. This is what makes the post-deadline path testable in Fe's test framework (see NOTES.md); on a live chain the same rules apply.
+- **Test-framework limits (not contract bugs).** The Fe 26.6 test EVM keeps `block.timestamp` constant within a test and cannot deploy with value (`create2` with nonzero value reverts), so there is no true "wait past the deadline" test — the deadline-crossing tests use a zero lock period instead. The `fe test` EVM also cannot receive a plain value transfer at the test account address, which is why `refund` takes a payout address. Details in NOTES.md.
+- **Not audited.** The contract is small and the invariants are covered by tests, but it has not been professionally audited. Do not use it for large amounts without one.
+
+## Declaration
+
+- **Pre-existing work:** Started from the official [Fe Builders Challenge starter](https://github.com/fe-lang/builders-challenge-starter) (commit `f9d9aa92a03af82c2bbb0dc2e0810244eb13e686`) — its `fe.toml`, CI workflow, `LICENSE`, README skeleton, and the example Vault contract. The Vault was fully replaced by `MilestoneEscrow`; no Vault code remains. All escrow design, code, and tests were written during the contest window (Nov 15, 2026).
+- **Third-party code:** Only the starter template above (Apache-2.0) and the Fe standard library (`std::evm`). No other dependencies.
+- **AI assistance:** Built with an AI coding assistant (Muse): the assistant wrote the contract and tests, ran `fe test` / `fe build`, and debugged the failures documented in NOTES.md. The human (Achmad Reza Baehaqi) is the responsible contact and reviewed the result.
+
+## Team
+
+Achmad Reza Baehaqi (solo) — Bogor, Indonesia. Contact: erjeganteng3@gmail.com. GitHub: slowwwkiss.
+
+## License
+
+Apache-2.0. See `LICENSE`.
