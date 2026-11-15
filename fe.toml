@@ -1,1 +1,3 @@
-W2luZ290XQpuYW1lID0gIm1pbGVzdG9uZV9lc2Nyb3ciCnZlcnNpb24gPSAiMC4xLjAiCg==
+[ingot]
+name = "milestone_escrow"
+version = "0.1.0"
