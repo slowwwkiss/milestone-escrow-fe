@@ -1,1 +1,122 @@
-IyBOT1RFUyDigJQgRmUgQnVpbGRlcnMgQ2hhbGxlbmdlOiBNaWxlc3RvbmUgRXNjcm93CgpXb3JraW5nIG5vdGVzIGZvciB0aGUgbWFpbiBhZ2VudC4gU3RhdHVzIGFzIG9mIDE1IE5vdiAyMDI2LCB+MjA6MzAgV0lCLgoKIyMgUmVnaXN0cmF0aW9uIHN0YXR1czogTk9UIERPTkUg4oCUIG5lZWRzIGEgbGl2ZSBicm93c2VyCgpSZWdpc3RyYXRpb24gaXMgYSBHb29nbGUgRm9ybS4gUHJvZ3JhbW1hdGljIHN1Ym1pc3Npb24gd2FzIGF0dGVtcHRlZCA1IHRpbWVzCihwbGFpbiBjdXJsICsgY3VybF9jZmZpIENocm9tZSBpbXBlcnNvbmF0aW9uLCB3aXRoIHNlc3Npb24gY29va2llcywgZnJlc2gKYGZienhgLCBgZnZ2PTFgLCBgcGFnZUhpc3Rvcnk9MGAsIGBzdWJtaXNzaW9uVGltZXN0YW1wPS0xYCwKYHBhcnRpYWxSZXNwb25zZWAvYGRyYWZ0UmVzcG9uc2VgKSDigJQgZXZlcnkgYXR0ZW1wdCByZXR1cm5lZCAqKkhUVFAgNDAwKioKd2l0aCB0aGUgZm9ybSByZS1yZW5kZXJlZCBhbmQgYWxsIHJlcXVpcmVkIHF1ZXN0aW9ucyBmbGFnZ2VkIGVtcHR5LiBUaGUgZm9ybQppcyB0aGUgbW9kZXJuIEpTLWRyaXZlbiBHb29nbGUgRm9ybXM6IHRoZSBIVE1MIGNvbnRhaW5zICoqbm8qKiBgZW50cnkuKmAKaW5wdXQgbmFtZXMgYXQgYWxsIChmaWVsZHMgZXhpc3Qgb25seSBpbiBgRkJfUFVCTElDX0xPQURfREFUQV9gKSwgYW5kIHRoZQpjbGFzc2ljIGAvZm9ybVJlc3BvbnNlYCBQT1NUIHBhdGggaXMgcmVqZWN0ZWQuIFRoaXMgaXMgYSBmb3JtLXNpZGUgYmxvY2ssIG5vdAphIHdyb25nLWZpZWxkIHByb2JsZW0g4oCUIGVudHJ5IElEcyB3ZXJlIGNvbmZpcm1lZCBmcm9tIHRoZSBmb3JtJ3Mgb3duIGRhdGEKKGAxMjg0MDk0NjAxYCB0aXRsZSwgYDg5NDk0MzQ3MGAgaWRlYSwgYDE0MzIwMjg5MjRgIG5hbWUsIGA1MDEwMDI2N2AgZW1haWwsCmAyMTQ3NDQyMDk4YCB0ZWFtLCBgMzMzNTMwMzQ2YCByZXBvIFVSTCwgYDIwNDYxMDc4MzRgIFp1bGlwKS4KCioqV2hhdCB0aGUgbWFpbiBhZ2VudCBtdXN0IGRvIChicm93c2VyIHRhc2ssIH4yIG1pbnV0ZXMpOioqCgoxLiBPcGVuIGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2Zvcm1zL2QvZS8xRkFJcFFMU2VoRFVVYnFmUXQ2N0VjeTIxeklzT0ZON3BwNG9yeDlLbzlES0NXY0RramhFVVZCZy92aWV3Zm9ybQoyLiBGaWxsIGluOgogICAtIFByb2plY3Qgd29ya2luZyB0aXRsZTogYE1pbGVzdG9uZSBFc2Nyb3cg4oCUIHRydXN0LW1pbmltaXplZCBmcmVlbGFuY2UgcGF5bWVudHMgaW4gRmVgCiAgIC0gUHJvamVjdCBpZGVhICgx4oCTMyBzZW50ZW5jZXMpOiBgQSBGZSBzbWFydCBjb250cmFjdCBlc2Nyb3cgZm9yIGZyZWVsYW5jZSB3b3JrOiBhIGNsaWVudCBmdW5kcyBtaWxlc3RvbmVzIGluIEVUSCwgdGhlIGZyZWVsYW5jZXIgZGVsaXZlcnMsIGFuZCBmdW5kcyByZWxlYXNlIG9uIGNsaWVudCBhcHByb3ZhbCBvciBhdXRvLXJlbGVhc2UgYWZ0ZXIgYSBkZWFkbGluZTsgdW5hcHByb3ZlZCB3b3JrIGNhbiBiZSByZWZ1bmRlZCBhZnRlciBleHBpcnkuIEJ1aWx0IHRvIHNob3cgaG93IEZlJ3MgdHlwZSBzeXN0ZW0gYW5kIHRyYWl0cyBtYWtlIGVzY3JvdyBsb2dpYyBjbGVhciwgc2FmZSwgYW5kIGF1ZGl0YWJsZS5gCiAgIC0gUmVzcG9uc2libGUgY29udGFjdCBuYW1lOiBgQWNobWFkIFJlemEgQmFlaGFxaWAKICAgLSBDb250YWN0IGVtYWlsOiBgZXJqZWdhbnRlbmczQGdtYWlsLmNvbWAKICAgLSBUZWFtIG1lbWJlcnMgLyBHaXRIdWIgaGFuZGxlczogYEFjaG1hZCBSZXphIEJhZWhhcWkgKHNvbG8pIOKAlCBHaXRIdWI6IHNsb3d3d2tpc3NgCiAgIC0gUmVwb3NpdG9yeSBVUkwgKG9wdGlvbmFsKTogbGVhdmUgYmxhbmsgZm9yIG5vdywgb3IgdGhlIHJlcG8gVVJMIG9uY2UgdGhlIEdpdEh1YiByZXBvIGV4aXN0cyAoc2VlIGJlbG93KQogICAtIFp1bGlwIGNvbnRhY3QgKG9wdGlvbmFsKTogYmxhbmsKMy4gU3VibWl0LiBDb25maXJtYXRpb24gYXJyaXZlcyAqKmJ5IGVtYWlsKiogdG8gZXJqZWdhbnRlbmczQGdtYWlsLmNvbSB3aXRoCiAgIHRoZSBwcm9qZWN0IElEIGFuZCB0aGUgKipwcml2YXRlIHN1Ym1pc3Npb24gbGluayoqIOKAlCB0aGF0IGxpbmsgaXMgcmVxdWlyZWQKICAgdG8gc3VibWl0IHRoZSBwcm9qZWN0LiBObyBzaWduLWluIGlzIHJlcXVpcmVkIHRvIGZpbGwgdGhlIGZvcm0gKCJTaWduIGluCiAgIHRvIEdvb2dsZSIgaXMgb25seSBvZmZlcmVkIHRvIHNhdmUgcHJvZ3Jlc3MpLgo0LiBEZWFkbGluZTogKipOb3YgMTcsIDIwMjYsIDIzOjU5IFVUQyA9IE5vdiAxOCwgMDY6NTkgV0lCLiBGaXJtLCBubwogICBleGNlcHRpb25zKiogZXhjZXB0IGlmIHRoZSBvcmdhbml6ZXJzJyBzaWRlIGZhaWxzLgoKU3VibWlzc2lvbiBmb3JtIChmb3IgbGF0ZXIsIGFmdGVyIHJlZ2lzdHJhdGlvbik6IHRoZSBzdGFydGVyIFJFQURNRSBsaW5rcwpodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9mb3Jtcy9kL2UvMUZBSXBRTFNkMnBxVWtKekZwWk11NUZWUVAtTnRldHJJb0I2bkktcEhHMU1MVE9RaENwc0xLcWcvdmlld2Zvcm0K4oCUIGJ1dCB0aGUgcmVhbCBzdWJtaXNzaW9uIGdvZXMgdGhyb3VnaCB0aGUgKipwcml2YXRlIGxpbmsgZnJvbSB0aGUKcmVnaXN0cmF0aW9uIGVtYWlsKiouIEZpbmFsIHN1Ym1pc3Npb24gZGVhZGxpbmU6ICoqTm92IDI0LCAyMDI2LCAyMzo1OSBVVEMgPQpOb3YgMjUsIDA2OjU5IFdJQioqLiBXaW5uZXJzIGFubm91bmNlZCBEZWMgMSwgMjAyNi4gUHJpemVzIHBhaWQgaW4gVVNEQyBvbgpFdGhlcmV1bSBNYWlubmV0IHRvIG9uZSBwYXlvdXQgYWRkcmVzcyBwZXIgd2lubmluZyBwcm9qZWN0IChyZXF1ZXN0ZWQgYnkKZW1haWwgYWZ0ZXIgd2lubmVycyBhcmUgYW5ub3VuY2VkKS4KCiMjIEJ1aWxkIHN0YXR1czogRE9ORSDigJQgMTMvMTMgdGVzdHMgcGFzcywgY29udHJhY3QgY29tcGlsZXMKCi0gRmUgKioyNi42LjAgKDViM2Y5NmEpKiosIGluc3RhbGxlZCB2aWEgZmV1cCBhdCBgfi8uZmUvYmluL2ZlYC4KLSBgZmUgZm10IC0tY2hlY2tgIOKAlCBjbGVhbi4KLSBgZmUgdGVzdGAg4oCUICoqMTMgcGFzc2VkLCAwIGZhaWxlZCoqIChydW4gTm92IDE1IH4yMDoyNiBXSUIpLgotIGBmZSBidWlsZGAg4oCUIGVtaXRzIGBvdXQvTWlsZXN0b25lRXNjcm93LmJpbmAsIGAucnVudGltZS5iaW5gLCBgLmFiaS5qc29uYAogIChBQkkgdmVyaWZpZWQ6IGNvbnN0cnVjdG9yIGAoYWRkcmVzcyxhZGRyZXNzLHVpbnQyNTYpYCwgYGZ1bmQoKWAgcGF5YWJsZSwKICBgcmVsZWFzZSh1aW50MjU2KWAsIGByZWZ1bmQoYWRkcmVzcylgLCA3IHZpZXdzLCAzIGV2ZW50cykuCi0gTm8gbWFpbm5ldCBkZXBsb3ltZW50LCBubyBtb25leSBzcGVudC4gTG9jYWwgdGVzdCBvbmx5LgoKIyMgV2hhdCByZW1haW5zIGJlZm9yZSBzdWJtaXQgKG1haW4gYWdlbnQpCgoxLiAqKlJlZ2lzdGVyKiogKGJyb3dzZXIsIHNlZSBhYm92ZSkg4oCUIEJMT0NLSU5HLiBXaXRob3V0IGl0LCBubyBzdWJtaXNzaW9uLgoyLiAqKkNyZWF0ZSB0aGUgcHVibGljIEdpdEh1YiByZXBvKiogYHNsb3d3d2tpc3MvbWlsZXN0b25lLWVzY3Jvdy1mZWAKICAgKG9yIGFub3RoZXIgbmFtZSkgYW5kIHB1c2ggdGhpcyBkaXJlY3RvcnkuIFRoZSBsb2NhbCBnaXQgcmVtb3RlIGlzIHN0aWxsCiAgIHRoZSBzdGFydGVyJ3MgKGBmZS1sYW5nL2J1aWxkZXJzLWNoYWxsZW5nZS1zdGFydGVyYCk7IHJlcG9pbnQgaXQ6CiAgIGBnaXQgcmVtb3RlIHNldC11cmwgb3JpZ2luIGh0dHBzOi8vZ2l0aHViLmNvbS9zbG93d3draXNzL21pbGVzdG9uZS1lc2Nyb3ctZmUuZ2l0YCwKICAgdGhlbiBwdXNoLiBUaGUgY29tbWl0IHRoZSBqdXJ5IHJldmlld3MgbXVzdCBiZSB0aGUgcHVzaGVkIFNIQS4KMy4gKipDb21taXQgdGhlIHdvcmsqKiAobm90IHlldCBjb21taXR0ZWQg4oCUIHNlZSBgZ2l0IHN0YXR1c2ApLgo0LiBTdWJtaXQgdmlhIHRoZSBwcml2YXRlIGxpbmsgd2l0aCB0aGUgcmVwbyBVUkwgKyBleGFjdCBjb21taXQgU0hBIGJlZm9yZQogICBOb3YgMjQsIDIzOjU5IFVUQy4KCiMjIEZlIDI2LjYgZmluZGluZ3MgKHdvcnRoIGtub3dpbmcgZm9yIHJldmlldyAvIGZ1dHVyZSB3b3JrKQoKUHJvYmVkIGVtcGlyaWNhbGx5IHdpdGggdGhyb3dhd2F5IGluZ290cyBpbiBgL3RtcC9mZS1wcm9iZWAgKG5vdCBwYXJ0IG9mCnRoZSBzdWJtaXNzaW9uKToKCjEuICoqSW5nb3QgbmFtZXMgbXVzdCBiZSBpZGVudGlmaWVycyoqIOKAlCBgbWlsZXN0b25lLWVzY3Jvd2AgaXMgcmVqZWN0ZWQsCiAgIGBtaWxlc3RvbmVfZXNjcm93YCB3b3Jrcy4KMi4gKipJbml0IHBhcmFtcyBtYXkgbm90IHNoYWRvdyBzdG9yYWdlIGZpZWxkcy4qKiBgaW5pdChjbGllbnQ6IEFkZHJlc3MsCiAgIC4uLilgIHdpdGggYSBgY2xpZW50YCBmaWVsZCBmYWlscyB3aXRoICJhbHNvIGJvdW5kIGJ5IGFuIGVmZmVjdCIg4oCUIHRoZQogICBzdGFydGVyIGF2b2lkcyB0aGlzIGJ5IG5hbWluZyB0aGUgcGFyYW0gYGxvY2tfcGVyaW9kYCB2cyBmaWVsZCBgbG9ja2AuCiAgIFJlbmFtZWQgdG8gYGNsaWVudF9hZGRyYCAvIGBmcmVlbGFuY2VyX2FkZHJgLgozLiAqKkV2ZXJ5IGZ1bmN0aW9uIGFyZ3VtZW50IG5lZWRzIGl0cyBsYWJlbCBhdCB0aGUgY2FsbCBzaXRlKioKICAgKGBkZXBsb3kobG9jazogLi4uLCBjbGllbnQ6IC4uLiwgZnJlZWxhbmNlcjogLi4uKWApOyBtaXNzaW5nIGxhYmVscyBhcmUKICAgY29tcGlsZSBlcnJvcnMuIFNhbWUgZm9yIHN0cnVjdC1zdHlsZSBtZXNzYWdlIGNvbnN0cnVjdGlvbi4KNC4gKipFdmVyeSBmaWVsZCBhIGhhbmRsZXIgdG91Y2hlcyBtdXN0IGJlIGluIGl0cyBgdXNlc2AgY2xhdXNlKiog4oCUIHRoZQogICBjb21waWxlciBuYW1lcyB0aGUgbWlzc2luZyBvbmUgKGUuZy4gYGRlYWRsaW5lYCBpbiBgRnVuZGApLgo1LiAqKmBmZSB0ZXN0YCBrZWVwcyBgYmxvY2sudGltZXN0YW1wYCBjb25zdGFudCBpbnNpZGUgYSB0ZXN0KiogYW5kCiAgICoqYGNyZWF0ZTJgIHdpdGggYSBub256ZXJvIGRlcGxveW1lbnQgdmFsdWUgcmV2ZXJ0cy4qKiBDb25zZXF1ZW5jZToKICAgdGhlcmUgaXMgbm8gdHJ1ZSAid2FpdCBwYXN0IHRoZSBkZWFkbGluZSIgdGVzdC4gRGVhZGxpbmUtY3Jvc3NpbmcgaXMKICAgdGVzdGVkIHdpdGggYSAqKnplcm8gbG9jayBwZXJpb2QqKiAoZGVhZGxpbmUgPT0gIm5vdyIpOiBmdW5kaW5nIGlzIHN0aWxsCiAgIGFsbG93ZWQgYXQgdGhhdCBpbnN0YW50IChgdGltZXN0YW1wIDw9IGRlYWRsaW5lYCksIHJlbGVhc2UgaXMgY2xvc2VkLAogICByZWZ1bmQgaXMgb3Blbi4gVGhlIGNvbnRyYWN0IGxvZ2ljIGlzIGlkZW50aWNhbCBvbiBhIGxpdmUgY2hhaW47IG9ubHkKICAgdGhlIHRlc3QncyBjbG9jayBpcyBmYWtlLgo2LiAqKlRoZSBgZmUgdGVzdGAgRVZNIGNhbm5vdCByZWNlaXZlIGEgcGxhaW4gdmFsdWUgdHJhbnNmZXIgYXQgdGhlIHRlc3QKICAgYWNjb3VudCBhZGRyZXNzKiogKGBldm0uYWRkcmVzcygpYCk6IGBzZW5kX3ZhbHVlYCB0byBpdCBmYWlscyB3aXRoCiAgICJUcmFuc2ZlciBmYWlsZWQiLCB3aGlsZSB0aGUgc2FtZSBjYWxsIHRvIGEgZnJlc2ggYWRkcmVzcyAoZS5nLgogICBgMHgxMjM0YCkgc3VjY2VlZHMuIFZlcmlmaWVkIHdpdGggYSBtaW5pbWFsIHByb2JlIGNvbnRyYWN0LiBUaGF0IGlzIHdoeQogICBgcmVmdW5kYCB0YWtlcyBhIHBheW91dCBhZGRyZXNzIChgcmVmdW5kKGFkZHJlc3MpYCksIG1pcnJvcmluZyB0aGUKICAgc3RhcnRlciBWYXVsdCdzIGB3aXRoZHJhdyhhZGRyZXNzKWAg4oCUIGFuZCB3aHkgdGhlIHJlZnVuZCB0ZXN0IHBheXMgb3V0CiAgIHRvIGAweDU2NzhgLCBub3QgdG8gdGhlIHRlc3QgYWNjb3VudC4gT24gYSByZWFsIGNoYWluLCByZWZ1bmRpbmcgdG8gdGhlCiAgIGNsaWVudCdzIG93biBFT0Egd29ya3Mgbm9ybWFsbHkuCjcuICoqTm8gYHdhcnBgIC8gYHByYW5rYCBjaGVhdGNvZGVzKiogd2VyZSBmb3VuZCBpbiB0aGUgRmUgMjYuNiB0ZXN0CiAgIGZyYW1ld29yayAoYGZlIGRvY2Agb3V0cHV0ICsgc2VhcmNoKS4gVGhlIHRlc3QgY2FsbGVyIGlzIGFsd2F5cwogICBgZXZtLmFkZHJlc3MoKWA7IGFjY2Vzcy1jb250cm9sIHRlc3RzIHRoZXJlZm9yZSBkZXBsb3kgd2l0aCBhICpkaWZmZXJlbnQqCiAgIGNsaWVudCBhZGRyZXNzIGFuZCBhc3NlcnQgdGhlIHN0cmFuZ2VyJ3MgY2FsbCByZXZlcnRzLgo4LiBUaGUgc3RhcnRlcidzIG93biAzIHRlc3RzIHBhc3MgdW5tb2RpZmllZCBvbiBGZSAyNi42LjAgKHZlcmlmaWVkIGJlZm9yZQogICByZXBsYWNpbmcgdGhlIFZhdWx0KS4KCiMjIENvbnRlc3QgZmFjdHMgKHZlcmlmaWVkIE5vdiAxNSBmcm9tIGZlLWxhbmcub3JnL2NvbnRlc3QgKyBibG9nKQoKLSAkNSwwMDAgdG90YWw6IDFzdCAkMiw1MDAgLyAybmQgJDEsNTAwIC8gM3JkICQxLDAwMCwgVVNEQyBvbiBFdGhlcmV1bQogIE1haW5uZXQsIGZ1bmRlZCBieSBBcmdvdCBDb2xsZWN0aXZlLiBBbGwgdGhyZWUgcHJpemVzIGd1YXJhbnRlZWQuCi0gQnVpbGQgd2luZG93IE5vdiAz4oCTMjQsIDIwMjYuIFJlZ2lzdHJhdGlvbiBjbG9zZXMgTm92IDE3LCAyMzo1OSBVVEMuCiAgU3VibWlzc2lvbnMgY2xvc2UgTm92IDI0LCAyMzo1OSBVVEMuIFdpbm5lcnMgfkRlYyAxLCAyMDI2LgotIE9wZW4gd29ybGR3aWRlLCBiZWdpbm5lcnMgd2VsY29tZSwgc29sbyBvciB0ZWFtLCBtdWx0aXBsZSBwcm9qZWN0cwogIGFsbG93ZWQgKHJlZ2lzdGVyIGVhY2ggc2VwYXJhdGVseSkuIEFyZ290IG1lbWJlcnMgKyBqdWRnZXMgZXhjbHVkZWQuCi0gSnVkZ2luZzogdGVjaG5pY2FsIHF1YWxpdHkgMzAlLCBGZS1zcGVjaWZpYyB2YWx1ZSAyNSUsIG9yaWdpbmFsaXR5IDIwJSwKICB1c2VmdWxuZXNzL2luc2lnaHQgMTUlLCBkb2N1bWVudGF0aW9uICYgZGVtbyAxMCUuIE5vIG1haW5uZXQgZGVwbG95CiAgbmVlZGVkOyBubyB2aWRlbyByZXF1aXJlZDsgc29jaWFsIHJlYWNoIGRvZXMgbm90IGFmZmVjdCBzY29yZS4KLSBBSSBhc3Npc3RhbmNlIGFsbG93ZWQsIG5vdCBzY29yZWQgbmVnYXRpdmVseSwgbXVzdCBiZSBkaXNjbG9zZWQgKGRvbmUgaW4KICBSRUFETUUpLiBDb3JlIHRlY2huaWNhbCBjb250cmlidXRpb24gbXVzdCBiZSBpbiBGZS4gUHVibGljIEdpdEh1YiByZXBvCiAgd2l0aCBPU0ktYXBwcm92ZWQgbGljZW5zZSAoQXBhY2hlLTIuMCBrZXB0IGZyb20gc3RhcnRlcikuIFJlcHJvZHVjaWJsZQogIGJ1aWxkICsgYXV0b21hdGVkIHRlc3RzIHJlcXVpcmVkLgotIEp1ZGdlcyBpbmNsdWRlIEF1c3RpbiBHcmlmZml0aCAoQnVpZGxHdWlkbCksIE1hcml1cyB2YW4gZGVyIFdpamRlbgogIChFdGhlcmV1bSBGb3VuZGF0aW9uIC8gR2V0aCksIEdyYW50IFd1ZXJrZXIgKyBNaWNhaCBTY29wZXMgKEFyZ290IC8gRmUKICBjb3JlKSwgQWhtZWQgQ2FzdHJvLCBQaGlsb2d5LCBSYWh1bCBLb3RoYXJpLCBqaXN0cm8uCg==
+# NOTES — Fe Builders Challenge: Milestone Escrow
+
+Working notes for the main agent. Status as of 15 Nov 2026, ~20:30 WIB.
+
+## Registration status: NOT DONE — needs a live browser
+
+Registration is a Google Form. Programmatic submission was attempted 5 times
+(plain curl + curl_cffi Chrome impersonation, with session cookies, fresh
+`fbzx`, `fvv=1`, `pageHistory=0`, `submissionTimestamp=-1`,
+`partialResponse`/`draftResponse`) — every attempt returned **HTTP 400**
+with the form re-rendered and all required questions flagged empty. The form
+is the modern JS-driven Google Forms: the HTML contains **no** `entry.*`
+input names at all (fields exist only in `FB_PUBLIC_LOAD_DATA_`), and the
+classic `/formResponse` POST path is rejected. This is a form-side block, not
+a wrong-field problem — entry IDs were confirmed from the form's own data
+(`1284094601` title, `894943470` idea, `1432028924` name, `50100267` email,
+`2147442098` team, `333530346` repo URL, `2046107834` Zulip).
+
+**What the main agent must do (browser task, ~2 minutes):**
+
+1. Open https://docs.google.com/forms/d/e/1FAIpQLSehDUUbqfQt67Ecy21zIsOFN7pp4orx9Ko9DKCWcDkjhEUVBg/viewform
+2. Fill in:
+   - Project working title: `Milestone Escrow — trust-minimized freelance payments in Fe`
+   - Project idea (1–3 sentences): `A Fe smart contract escrow for freelance work: a client funds milestones in ETH, the freelancer delivers, and funds release on client approval or auto-release after a deadline; unapproved work can be refunded after expiry. Built to show how Fe's type system and traits make escrow logic clear, safe, and auditable.`
+   - Responsible contact name: `Achmad Reza Baehaqi`
+   - Contact email: `erjeganteng3@gmail.com`
+   - Team members / GitHub handles: `Achmad Reza Baehaqi (solo) — GitHub: slowwwkiss`
+   - Repository URL (optional): leave blank for now, or the repo URL once the GitHub repo exists (see below)
+   - Zulip contact (optional): blank
+3. Submit. Confirmation arrives **by email** to erjeganteng3@gmail.com with
+   the project ID and the **private submission link** — that link is required
+   to submit the project. No sign-in is required to fill the form ("Sign in
+   to Google" is only offered to save progress).
+4. Deadline: **Nov 17, 2026, 23:59 UTC = Nov 18, 06:59 WIB. Firm, no
+   exceptions** except if the organizers' side fails.
+
+Submission form (for later, after registration): the starter README links
+https://docs.google.com/forms/d/e/1FAIpQLSd2pqUkJzFpZMu5FVQP-NtetrIoB6nI-pHG1MLTOQhCpsLKqg/viewform
+— but the real submission goes through the **private link from the
+registration email**. Final submission deadline: **Nov 24, 2026, 23:59 UTC =
+Nov 25, 06:59 WIB**. Winners announced Dec 1, 2026. Prizes paid in USDC on
+Ethereum Mainnet to one payout address per winning project (requested by
+email after winners are announced).
+
+## Build status: DONE — 13/13 tests pass, contract compiles
+
+- Fe **26.6.0 (5b3f96a)**, installed via feup at `~/.fe/bin/fe`.
+- `fe fmt --check` — clean.
+- `fe test` — **13 passed, 0 failed** (run Nov 15 ~20:26 WIB).
+- `fe build` — emits `out/MilestoneEscrow.bin`, `.runtime.bin`, `.abi.json`
+  (ABI verified: constructor `(address,address,uint256)`, `fund()` payable,
+  `release(uint256)`, `refund(address)`, 7 views, 3 events).
+- No mainnet deployment, no money spent. Local test only.
+
+## What remains before submit (main agent)
+
+1. **Register** (browser, see above) — BLOCKING. Without it, no submission.
+2. **Create the public GitHub repo** `slowwwkiss/milestone-escrow-fe`
+   (or another name) and push this directory. The local git remote is still
+   the starter's (`fe-lang/builders-challenge-starter`); repoint it:
+   `git remote set-url origin https://github.com/slowwwkiss/milestone-escrow-fe.git`,
+   then push. The commit the jury reviews must be the pushed SHA.
+3. **Commit the work** (not yet committed — see `git status`).
+4. Submit via the private link with the repo URL + exact commit SHA before
+   Nov 24, 23:59 UTC.
+
+## Fe 26.6 findings (worth knowing for review / future work)
+
+Probed empirically with throwaway ingots in `/tmp/fe-probe` (not part of
+the submission):
+
+1. **Ingot names must be identifiers** — `milestone-escrow` is rejected,
+   `milestone_escrow` works.
+2. **Init params may not shadow storage fields.** `init(client: Address,
+   ...)` with a `client` field fails with "also bound by an effect" — the
+   starter avoids this by naming the param `lock_period` vs field `lock`.
+   Renamed to `client_addr` / `freelancer_addr`.
+3. **Every function argument needs its label at the call site**
+   (`deploy(lock: ..., client: ..., freelancer: ...)`); missing labels are
+   compile errors. Same for struct-style message construction.
+4. **Every field a handler touches must be in its `uses` clause** — the
+   compiler names the missing one (e.g. `deadline` in `Fund`).
+5. **`fe test` keeps `block.timestamp` constant inside a test** and
+   **`create2` with a nonzero deployment value reverts.** Consequence:
+   there is no true "wait past the deadline" test. Deadline-crossing is
+   tested with a **zero lock period** (deadline == "now"): funding is still
+   allowed at that instant (`timestamp <= deadline`), release is closed,
+   refund is open. The contract logic is identical on a live chain; only
+   the test's clock is fake.
+6. **The `fe test` EVM cannot receive a plain value transfer at the test
+   account address** (`evm.address()`): `send_value` to it fails with
+   "Transfer failed", while the same call to a fresh address (e.g.
+   `0x1234`) succeeds. Verified with a minimal probe contract. That is why
+   `refund` takes a payout address (`refund(address)`), mirroring the
+   starter Vault's `withdraw(address)` — and why the refund test pays out
+   to `0x5678`, not to the test account. On a real chain, refunding to the
+   client's own EOA works normally.
+7. **No `warp` / `prank` cheatcodes** were found in the Fe 26.6 test
+   framework (`fe doc` output + search). The test caller is always
+   `evm.address()`; access-control tests therefore deploy with a *different*
+   client address and assert the stranger's call reverts.
+8. The starter's own 3 tests pass unmodified on Fe 26.6.0 (verified before
+   replacing the Vault).
+
+## Contest facts (verified Nov 15 from fe-lang.org/contest + blog)
+
+- $5,000 total: 1st $2,500 / 2nd $1,500 / 3rd $1,000, USDC on Ethereum
+  Mainnet, funded by Argot Collective. All three prizes guaranteed.
+- Build window Nov 3–24, 2026. Registration closes Nov 17, 23:59 UTC.
+  Submissions close Nov 24, 23:59 UTC. Winners ~Dec 1, 2026.
+- Open worldwide, beginners welcome, solo or team, multiple projects
+  allowed (register each separately). Argot members + judges excluded.
+- Judging: technical quality 30%, Fe-specific value 25%, originality 20%,
+  usefulness/insight 15%, documentation & demo 10%. No mainnet deploy
+  needed; no video required; social reach does not affect score.
+- AI assistance allowed, not scored negatively, must be disclosed (done in
+  README). Core technical contribution must be in Fe. Public GitHub repo
+  with OSI-approved license (Apache-2.0 kept from starter). Reproducible
+  build + automated tests required.
+- Judges include Austin Griffith (BuidlGuidl), Marius van der Wijden
+  (Ethereum Foundation / Geth), Grant Wuerker + Micah Scopes (Argot / Fe
+  core), Ahmed Castro, Philogy, Rahul Kothari, jistro.
